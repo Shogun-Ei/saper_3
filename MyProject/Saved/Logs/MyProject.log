@@ -2356,3 +2356,21 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.22-07.02.59:784][438]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.22-07.02.59:784][438]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.02.22-07.02.59:784][438]AssetCheck: /Game/bluprints/hero/ABP_HERO Validating asset
+[2025.02.22-07.04.26:391][867]LogEditorTransaction: Undo Add Node
+[2025.02.22-07.05.29:030][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.02.22-07.05.29:839][744]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-07.05.29:897][744]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/ABP_HERO] ([2] browsable assets)...
+[2025.02.22-07.05.29:897][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/ABP_HERO]
+[2025.02.22-07.05.29:897][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/ABP_HERO" FILE="G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset" SILENT=true
+[2025.02.22-07.05.29:979][744]LogSavePackage: Moving output files for package: /Game/bluprints/hero/ABP_HERO
+[2025.02.22-07.05.29:980][744]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/ABP_HERO96B303424913970991DD1E874F89C965.tmp' to 'G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset'
+[2025.02.22-07.05.29:992][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 154.021 ms (total: 2.03 sec)
+[2025.02.22-07.05.30:048][744]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-07.05.30:048][744]LogContentValidation: Enabled validators:
+[2025.02.22-07.05.30:048][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-07.05.30:048][744]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-07.05.30:048][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-07.05.30:048][744]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-07.05.30:048][744]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-07.05.30:048][744]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-07.05.30:048][744]AssetCheck: /Game/bluprints/hero/ABP_HERO Validating asset
