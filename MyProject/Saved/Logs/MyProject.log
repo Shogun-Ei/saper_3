@@ -1685,3 +1685,26 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.22-06.31.25:750][253]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 360.139954
 [2025.02.22-06.31.27:083][257]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.02.22-06.31.27:084][257]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 361.140656, Update Interval: 358.428894
+[2025.02.22-06.31.38:806][310]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bluprints/hero/BP_HERO.BP_HERO
+[2025.02.22-06.31.38:807][310]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.02.22-06.31.39:172][310]LogStreaming: Display: FlushAsyncLoading(537): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.22-06.31.39:177][310]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2025.02.22-06.31.39:178][310]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2025.02.22-06.31.39:347][310]LogTexture: Display: Waiting for textures to be ready 1/2 (/Engine/EditorResources/TilePatine_N) ...
+[2025.02.22-06.32.35:700][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.02.22-06.32.36:419][380]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-06.32.36:477][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/BP_HERO] ([2] browsable assets)...
+[2025.02.22-06.32.36:477][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/BP_HERO]
+[2025.02.22-06.32.36:477][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/BP_HERO" FILE="G:/cursach/saper_3/MyProject/Content/bluprints/hero/BP_HERO.uasset" SILENT=true
+[2025.02.22-06.32.36:505][380]LogSavePackage: Moving output files for package: /Game/bluprints/hero/BP_HERO
+[2025.02.22-06.32.36:506][380]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/BP_HERO0DE06FF44EF37615880586B9C31F08E7.tmp' to 'G:/cursach/saper_3/MyProject/Content/bluprints/hero/BP_HERO.uasset'
+[2025.02.22-06.32.36:518][380]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.377 ms (total: 1.02 sec)
+[2025.02.22-06.32.36:576][380]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-06.32.36:576][380]LogContentValidation: Enabled validators:
+[2025.02.22-06.32.36:576][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-06.32.36:576][380]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-06.32.36:576][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-06.32.36:576][380]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-06.32.36:576][380]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-06.32.36:576][380]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-06.32.36:576][380]AssetCheck: /Game/bluprints/hero/BP_HERO Validating asset
