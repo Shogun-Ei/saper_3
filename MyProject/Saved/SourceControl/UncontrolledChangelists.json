@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/engine/course/saper_3/MyProject/Content/level1.umap",
+				"D:/engine/course/saper_3/MyProject/Content/bluprints/hero/AnimSequences/idle_2.uasset",
+				"D:/engine/course/saper_3/MyProject/Content/bluprints/hero/AS_hero_2.uasset",
+				"D:/engine/course/saper_3/MyProject/Content/bluprints/hero/AnimSequences/run_2.uasset",
+				"D:/engine/course/saper_3/MyProject/Content/bluprints/hero/ABP_hero_2.uasset",
+				"D:/engine/course/saper_3/MyProject/Content/bluprints/hero/BP_hero_2.uasset",
+				"D:/engine/course/saper_3/MyProject/Content/bluprints/GM_BASE.uasset",
 				"G:/cursach/saper_3/MyProject/Content/level1.umap",
 				"G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_0.uasset",
 				"G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_1.uasset",
@@ -139,8 +146,7 @@
 				"G:/cursach/saper_3/MyProject/Content/assets/fantasycaves/background4b.uasset",
 				"G:/cursach/saper_3/MyProject/Content/assets/fantasycaves/mainlev_build.uasset",
 				"G:/cursach/saper_3/MyProject/Content/assets/fantasycaves/props1.uasset",
-				"G:/cursach/saper_3/MyProject/Content/assets/fantasycaves/props2.uasset",
-				"D:/engine/course/saper_3/MyProject/Content/level1.umap"
+				"G:/cursach/saper_3/MyProject/Content/assets/fantasycaves/props2.uasset"
 			]
 		}
 	]
