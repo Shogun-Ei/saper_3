@@ -1591,3 +1591,58 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.22-06.28.02:845][288]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.22-06.28.02:845][288]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.02.22-06.28.02:845][288]AssetCheck: /Game/bluprints/hero/AS_HERO Validating asset
+[2025.02.22-06.28.53:099][966]LogSlate: Window 'Pick Parent Animation Source' being destroyed
+[2025.02.22-06.28.53:106][966]LogContentBrowser: Deferred new asset file creation: NewPaperZDAnimBP
+[2025.02.22-06.28.53:112][966]LogContentBrowser: Creating deferred item: NewPaperZDAnimBP
+[2025.02.22-06.28.53:166][967]LogContentBrowser: Renaming the item being created (Deferred Item: NewPaperZDAnimBP).
+[2025.02.22-06.28.56:925][104]LogContentBrowser: Attempting asset rename: NewPaperZDAnimBP -> NewPaperZDAnimBP
+[2025.02.22-06.28.57:346][104]LogContentBrowser: End creating deferred item NewPaperZDAnimBP
+[2025.02.22-06.28.58:735][229]LogContentBrowser: Attempting asset rename: NewPaperZDAnimBP -> NewPaperZDAnimBP
+[2025.02.22-06.29.12:124][631]LogContentBrowser: Attempting asset rename: NewPaperZDAnimBP -> ABP_HERO
+[2025.02.22-06.29.12:220][631]LogMetaData: Removing '/Game/bluprints/hero/ABP_HERO.ABP_HERO:AnimGraph.PaperZDAnimGraphNode_Sink_0' ref from Metadata '/Game/bluprints/hero/NewPaperZDAnimBP.PackageMetaData'
+[2025.02.22-06.29.12:220][631]LogMetaData: Removing '/Game/bluprints/hero/ABP_HERO.SKEL_ABP_HERO_C' ref from Metadata '/Game/bluprints/hero/NewPaperZDAnimBP.PackageMetaData'
+[2025.02.22-06.29.12:220][631]LogMetaData: Removing '/Game/bluprints/hero/ABP_HERO.ABP_HERO_C' ref from Metadata '/Game/bluprints/hero/NewPaperZDAnimBP.PackageMetaData'
+[2025.02.22-06.29.12:220][631]LogMetaData: Removing '/Game/bluprints/hero/ABP_HERO.ABP_HERO:EventGraph.K2Node_Event_0' ref from Metadata '/Game/bluprints/hero/NewPaperZDAnimBP.PackageMetaData'
+[2025.02.22-06.29.12:220][631]LogMetaData: Removing '/Game/bluprints/hero/ABP_HERO.ABP_HERO:EventGraph.K2Node_Event_1' ref from Metadata '/Game/bluprints/hero/NewPaperZDAnimBP.PackageMetaData'
+[2025.02.22-06.29.12:221][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-06.29.12:221][631]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/ABP_HERO] ([2] browsable assets)...
+[2025.02.22-06.29.12:221][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/ABP_HERO]
+[2025.02.22-06.29.12:221][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/ABP_HERO" FILE="G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset" SILENT=true
+[2025.02.22-06.29.12:653][631]LogSavePackage: Moving output files for package: /Game/bluprints/hero/ABP_HERO
+[2025.02.22-06.29.12:653][631]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/ABP_HEROCDA15A0E4F759B1EEA15828770DB2F3B.tmp' to 'G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset'
+[2025.02.22-06.29.12:657][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 436.332 ms (total: 698.022 ms)
+[2025.02.22-06.29.12:685][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.02.22-06.29.12:697][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.02.22-06.29.12:707][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.02.22-06.29.12:777][631]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-06.29.12:777][631]LogContentValidation: Enabled validators:
+[2025.02.22-06.29.12:777][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-06.29.12:777][631]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-06.29.12:777][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-06.29.12:777][631]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-06.29.12:777][631]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-06.29.12:777][631]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-06.29.12:777][631]AssetCheck: /Game/bluprints/hero/ABP_HERO Validating asset
+[2025.02.22-06.29.28:983][183]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimBP /Game/bluprints/hero/ABP_HERO.ABP_HERO
+[2025.02.22-06.29.29:058][183]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.02.22-06.29.29:912][183]LogStreaming: Display: FlushAsyncLoading(348): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.22-06.29.30:410][183]LogBlueprintEditor: Perf: 0.6 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2025.02.22-06.29.30:410][183]LogBlueprintEditor: Perf: 0.3 seconds loading: /Engine/EditorBlueprintResources/StandardMacros
+[2025.02.22-06.29.37:729][183]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.02.22-06.30.14:318][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.02.22-06.30.16:971][415]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-06.30.17:029][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/ABP_HERO] ([2] browsable assets)...
+[2025.02.22-06.30.17:029][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/ABP_HERO]
+[2025.02.22-06.30.17:029][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/ABP_HERO" FILE="G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset" SILENT=true
+[2025.02.22-06.30.17:059][415]LogSavePackage: Moving output files for package: /Game/bluprints/hero/ABP_HERO
+[2025.02.22-06.30.17:060][415]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/ABP_HERO0ED1D3444887BE14C1911892A442F781.tmp' to 'G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset'
+[2025.02.22-06.30.17:072][415]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.721 ms (total: 799.744 ms)
+[2025.02.22-06.30.17:128][415]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-06.30.17:128][415]LogContentValidation: Enabled validators:
+[2025.02.22-06.30.17:128][415]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-06.30.17:128][415]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-06.30.17:128][415]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-06.30.17:128][415]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-06.30.17:128][415]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-06.30.17:128][415]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-06.30.17:128][415]AssetCheck: /Game/bluprints/hero/ABP_HERO Validating asset
