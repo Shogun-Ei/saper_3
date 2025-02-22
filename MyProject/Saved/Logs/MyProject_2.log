@@ -1554,3 +1554,867 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.22-06.15.56:451][749]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.22-06.15.56:451][749]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.02.22-06.15.56:451][749]AssetCheck: /Game/level1 Validating asset
+[2025.02.22-06.16.33:271][961]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.02.22-06.17.55:811][836]LogSlate: Window 'Extract sprites' being destroyed
+[2025.02.22-06.17.55:946][839]LogStreaming: Display: FlushAsyncLoading(358): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.22-06.18.39:616][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-06.18.39:616][ 25]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/idle/char_red_1_Sprite_0] ([1] browsable assets)...
+[2025.02.22-06.18.39:619][ 25]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/idle/char_red_1_Sprite_0.char_red_1_Sprite_0]
+[2025.02.22-06.18.39:619][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/idle/char_red_1_Sprite_0]
+[2025.02.22-06.18.39:619][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/idle/char_red_1_Sprite_0" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_0.uasset" SILENT=true
+[2025.02.22-06.18.39:737][ 25]LogSavePackage: Moving output files for package: /Game/assets/character/idle/char_red_1_Sprite_0
+[2025.02.22-06.18.39:737][ 25]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_0C9A7C7204D0B7326BD3A559279295284.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_0.uasset'
+[2025.02.22-06.18.39:738][ 25]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/idle/char_red_1_Sprite_1] ([1] browsable assets)...
+[2025.02.22-06.18.39:742][ 25]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/idle/char_red_1_Sprite_1.char_red_1_Sprite_1]
+[2025.02.22-06.18.39:742][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/idle/char_red_1_Sprite_1]
+[2025.02.22-06.18.39:742][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/idle/char_red_1_Sprite_1" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_1.uasset" SILENT=true
+[2025.02.22-06.18.39:752][ 25]LogSavePackage: Moving output files for package: /Game/assets/character/idle/char_red_1_Sprite_1
+[2025.02.22-06.18.39:752][ 25]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_18D039EC14F9CDC3B8000B1A273B33971.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_1.uasset'
+[2025.02.22-06.18.39:753][ 25]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/idle/char_red_1_Sprite_2] ([1] browsable assets)...
+[2025.02.22-06.18.39:755][ 25]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/idle/char_red_1_Sprite_2.char_red_1_Sprite_2]
+[2025.02.22-06.18.39:755][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/idle/char_red_1_Sprite_2]
+[2025.02.22-06.18.39:755][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/idle/char_red_1_Sprite_2" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_2.uasset" SILENT=true
+[2025.02.22-06.18.39:765][ 25]LogSavePackage: Moving output files for package: /Game/assets/character/idle/char_red_1_Sprite_2
+[2025.02.22-06.18.39:765][ 25]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_285F34BE5444A58285F3EDEB15DB0F2DD.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_2.uasset'
+[2025.02.22-06.18.39:864][ 25]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/idle/char_red_1_Sprite_3] ([1] browsable assets)...
+[2025.02.22-06.18.39:866][ 25]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/idle/char_red_1_Sprite_3.char_red_1_Sprite_3]
+[2025.02.22-06.18.39:866][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/idle/char_red_1_Sprite_3]
+[2025.02.22-06.18.39:866][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/idle/char_red_1_Sprite_3" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_3.uasset" SILENT=true
+[2025.02.22-06.18.39:876][ 25]LogSavePackage: Moving output files for package: /Game/assets/character/idle/char_red_1_Sprite_3
+[2025.02.22-06.18.39:876][ 25]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_35D2136F74AEF0C47BEE7E293D825769E.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_3.uasset'
+[2025.02.22-06.18.39:878][ 25]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/idle/char_red_1_Sprite_4] ([1] browsable assets)...
+[2025.02.22-06.18.39:882][ 25]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/idle/char_red_1_Sprite_4.char_red_1_Sprite_4]
+[2025.02.22-06.18.39:882][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/idle/char_red_1_Sprite_4]
+[2025.02.22-06.18.39:882][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/idle/char_red_1_Sprite_4" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_4.uasset" SILENT=true
+[2025.02.22-06.18.39:891][ 25]LogSavePackage: Moving output files for package: /Game/assets/character/idle/char_red_1_Sprite_4
+[2025.02.22-06.18.39:891][ 25]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_42B109A984354A353082E2DB6AF0E9BAD.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_4.uasset'
+[2025.02.22-06.18.39:893][ 25]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/idle/char_red_1_Sprite_5] ([1] browsable assets)...
+[2025.02.22-06.18.39:897][ 25]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/idle/char_red_1_Sprite_5.char_red_1_Sprite_5]
+[2025.02.22-06.18.39:897][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/idle/char_red_1_Sprite_5]
+[2025.02.22-06.18.39:897][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/idle/char_red_1_Sprite_5" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_5.uasset" SILENT=true
+[2025.02.22-06.18.39:906][ 25]LogSavePackage: Moving output files for package: /Game/assets/character/idle/char_red_1_Sprite_5
+[2025.02.22-06.18.39:906][ 25]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_514164F71431B5FB69588B0B7F2659935.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_5.uasset'
+[2025.02.22-06.18.39:908][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 290.931 ms (total: 1.70 sec)
+[2025.02.22-06.18.40:015][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.02.22-06.18.40:028][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.02.22-06.18.40:037][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.02.22-06.18.40:064][ 25]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.02.22-06.18.40:064][ 25]LogContentValidation: Display: Starting to validate 6 assets
+[2025.02.22-06.18.40:064][ 25]LogContentValidation: Enabled validators:
+[2025.02.22-06.18.40:064][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-06.18.40:064][ 25]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-06.18.40:064][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-06.18.40:064][ 25]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-06.18.40:064][ 25]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-06.18.40:064][ 25]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-06.18.40:064][ 25]AssetCheck: /Game/assets/character/idle/char_red_1_Sprite_0 Validating asset
+[2025.02.22-06.18.40:064][ 25]AssetCheck: /Game/assets/character/idle/char_red_1_Sprite_1 Validating asset
+[2025.02.22-06.18.40:064][ 25]AssetCheck: /Game/assets/character/idle/char_red_1_Sprite_2 Validating asset
+[2025.02.22-06.18.40:064][ 25]AssetCheck: /Game/assets/character/idle/char_red_1_Sprite_3 Validating asset
+[2025.02.22-06.18.40:064][ 25]AssetCheck: /Game/assets/character/idle/char_red_1_Sprite_4 Validating asset
+[2025.02.22-06.18.40:064][ 25]AssetCheck: /Game/assets/character/idle/char_red_1_Sprite_5 Validating asset
+[2025.02.22-06.18.47:373][679]LogContentBrowser: Deferred new asset file creation: char_red_1
+[2025.02.22-06.18.47:380][679]LogContentBrowser: Creating deferred item: char_red_1
+[2025.02.22-06.18.47:696][680]LogContentBrowser: Renaming the item being created (Deferred Item: char_red_1).
+[2025.02.22-06.18.52:639][274]LogContentBrowser: Attempting asset rename: char_red_1 -> idle
+[2025.02.22-06.18.52:640][274]LogContentBrowser: End creating deferred item char_red_1
+[2025.02.22-06.18.56:853][775]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/assets/character/idle/idle.idle
+[2025.02.22-06.18.56:853][775]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.02.22-06.18.59:277][916]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.02.22-06.19.18:600][962]LogSlate: Window 'idle' being destroyed
+[2025.02.22-06.19.18:606][962]LogSlate: Window 'idle' being destroyed
+[2025.02.22-06.19.18:650][962]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.02.22-06.19.18:650][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.22-06.19.18:678][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.02.22-06.19.23:623][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.22-06.19.26:362][545]LogSlate: Window 'Delete Assets' being destroyed
+[2025.02.22-06.19.26:384][545]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/assets/character/idle/char_red_1_Sprite_0.char_red_1_Sprite_0
+	Asset Type: PaperSprite
+	Asset Name: /Game/assets/character/idle/char_red_1_Sprite_1.char_red_1_Sprite_1
+	Asset Type: PaperSprite
+	Asset Name: /Game/assets/character/idle/char_red_1_Sprite_2.char_red_1_Sprite_2
+	Asset Type: PaperSprite
+	Asset Name: /Game/assets/character/idle/char_red_1_Sprite_3.char_red_1_Sprite_3
+	Asset Type: PaperSprite
+	Asset Name: /Game/assets/character/idle/char_red_1_Sprite_4.char_red_1_Sprite_4
+	Asset Type: PaperSprite
+	Asset Name: /Game/assets/character/idle/char_red_1_Sprite_5.char_red_1_Sprite_5
+	Asset Type: PaperSprite
+[2025.02.22-06.19.26:908][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.02.22-06.19.26:918][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.02.22-06.19.26:928][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.02.22-06.19.28:545][728]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/assets/character/idle/idle.idle
+[2025.02.22-06.19.28:546][728]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.02.22-06.19.32:304][ 98]LogSlate: Window 'idle' being destroyed
+[2025.02.22-06.19.32:310][ 98]LogSlate: Window 'idle' being destroyed
+[2025.02.22-06.19.32:354][ 98]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.02.22-06.19.32:354][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.22-06.19.32:381][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.02.22-06.19.46:466][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.02.22-06.19.47:772][623]LogSlate: Window 'Delete Assets' being destroyed
+[2025.02.22-06.19.47:819][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.02.22-06.19.47:829][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.02.22-06.19.47:839][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.02.22-06.20.01:288][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.02.22-06.20.03:186][161]LogSlate: Window 'Delete Assets' being destroyed
+[2025.02.22-06.20.03:230][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.02.22-06.20.03:240][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.02.22-06.20.03:251][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.02.22-06.20.12:225][680]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 661.715332
+[2025.02.22-06.20.12:385][698]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.22-06.20.12:385][698]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 661.867065, Update Interval: 318.913544
+[2025.02.22-06.20.26:515][230]LogSlate: Window 'Extract sprites' being destroyed
+[2025.02.22-06.20.32:797][903]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-06.20.32:797][903]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/idle/char_red_1_Sprite_0] ([1] browsable assets)...
+[2025.02.22-06.20.32:798][903]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/idle/char_red_1_Sprite_0.char_red_1_Sprite_0]
+[2025.02.22-06.20.32:798][903]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/idle/char_red_1_Sprite_0]
+[2025.02.22-06.20.32:798][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/idle/char_red_1_Sprite_0" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_0.uasset" SILENT=true
+[2025.02.22-06.20.32:808][903]LogSavePackage: Moving output files for package: /Game/assets/character/idle/char_red_1_Sprite_0
+[2025.02.22-06.20.32:808][903]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_08FAED3AE46A317E1DE3DF89EEC4F0A62.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_0.uasset'
+[2025.02.22-06.20.32:809][903]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/idle/char_red_1_Sprite_1] ([1] browsable assets)...
+[2025.02.22-06.20.32:811][903]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/idle/char_red_1_Sprite_1.char_red_1_Sprite_1]
+[2025.02.22-06.20.32:811][903]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/idle/char_red_1_Sprite_1]
+[2025.02.22-06.20.32:811][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/idle/char_red_1_Sprite_1" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_1.uasset" SILENT=true
+[2025.02.22-06.20.32:820][903]LogSavePackage: Moving output files for package: /Game/assets/character/idle/char_red_1_Sprite_1
+[2025.02.22-06.20.32:820][903]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_1A4F650764959BD12E193FDA2013AA03B.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_1.uasset'
+[2025.02.22-06.20.32:822][903]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/idle/char_red_1_Sprite_2] ([1] browsable assets)...
+[2025.02.22-06.20.32:823][903]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/idle/char_red_1_Sprite_2.char_red_1_Sprite_2]
+[2025.02.22-06.20.32:823][903]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/idle/char_red_1_Sprite_2]
+[2025.02.22-06.20.32:823][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/idle/char_red_1_Sprite_2" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_2.uasset" SILENT=true
+[2025.02.22-06.20.32:832][903]LogSavePackage: Moving output files for package: /Game/assets/character/idle/char_red_1_Sprite_2
+[2025.02.22-06.20.32:832][903]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_26832047B481043253BDF3084B7523884.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_2.uasset'
+[2025.02.22-06.20.32:834][903]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/idle/char_red_1_Sprite_3] ([1] browsable assets)...
+[2025.02.22-06.20.32:835][903]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/idle/char_red_1_Sprite_3.char_red_1_Sprite_3]
+[2025.02.22-06.20.32:835][903]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/idle/char_red_1_Sprite_3]
+[2025.02.22-06.20.32:835][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/idle/char_red_1_Sprite_3" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_3.uasset" SILENT=true
+[2025.02.22-06.20.32:844][903]LogSavePackage: Moving output files for package: /Game/assets/character/idle/char_red_1_Sprite_3
+[2025.02.22-06.20.32:844][903]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_32C6879C44B6FB9C78A727DB49D4848F0.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_3.uasset'
+[2025.02.22-06.20.32:845][903]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/idle/char_red_1_Sprite_4] ([1] browsable assets)...
+[2025.02.22-06.20.32:848][903]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/idle/char_red_1_Sprite_4.char_red_1_Sprite_4]
+[2025.02.22-06.20.32:848][903]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/idle/char_red_1_Sprite_4]
+[2025.02.22-06.20.32:848][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/idle/char_red_1_Sprite_4" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_4.uasset" SILENT=true
+[2025.02.22-06.20.32:857][903]LogSavePackage: Moving output files for package: /Game/assets/character/idle/char_red_1_Sprite_4
+[2025.02.22-06.20.32:857][903]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_41E59EA214C261F78943C89A75F470867.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_4.uasset'
+[2025.02.22-06.20.32:858][903]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/idle/char_red_1_Sprite_5] ([1] browsable assets)...
+[2025.02.22-06.20.32:859][903]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/idle/char_red_1_Sprite_5.char_red_1_Sprite_5]
+[2025.02.22-06.20.32:859][903]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/idle/char_red_1_Sprite_5]
+[2025.02.22-06.20.32:859][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/idle/char_red_1_Sprite_5" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_5.uasset" SILENT=true
+[2025.02.22-06.20.32:869][903]LogSavePackage: Moving output files for package: /Game/assets/character/idle/char_red_1_Sprite_5
+[2025.02.22-06.20.32:869][903]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_5E8D15BAF41B4AB07D80272B6CF5724DC.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/idle/char_red_1_Sprite_5.uasset'
+[2025.02.22-06.20.32:871][903]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.388 ms (total: 1.77 sec)
+[2025.02.22-06.20.32:966][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.02.22-06.20.32:979][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.02.22-06.20.32:988][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.02.22-06.20.33:011][903]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.02.22-06.20.33:011][903]LogContentValidation: Display: Starting to validate 6 assets
+[2025.02.22-06.20.33:011][903]LogContentValidation: Enabled validators:
+[2025.02.22-06.20.33:011][903]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-06.20.33:011][903]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-06.20.33:011][903]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-06.20.33:011][903]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-06.20.33:011][903]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-06.20.33:011][903]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-06.20.33:011][903]AssetCheck: /Game/assets/character/idle/char_red_1_Sprite_0 Validating asset
+[2025.02.22-06.20.33:011][903]AssetCheck: /Game/assets/character/idle/char_red_1_Sprite_1 Validating asset
+[2025.02.22-06.20.33:011][903]AssetCheck: /Game/assets/character/idle/char_red_1_Sprite_2 Validating asset
+[2025.02.22-06.20.33:011][903]AssetCheck: /Game/assets/character/idle/char_red_1_Sprite_3 Validating asset
+[2025.02.22-06.20.33:011][903]AssetCheck: /Game/assets/character/idle/char_red_1_Sprite_4 Validating asset
+[2025.02.22-06.20.33:011][903]AssetCheck: /Game/assets/character/idle/char_red_1_Sprite_5 Validating asset
+[2025.02.22-06.20.39:379][627]LogContentBrowser: Deferred new asset file creation: char_red_1
+[2025.02.22-06.20.39:385][627]LogContentBrowser: Creating deferred item: char_red_1
+[2025.02.22-06.20.39:395][628]LogContentBrowser: Renaming the item being created (Deferred Item: char_red_1).
+[2025.02.22-06.20.43:069][ 68]LogContentBrowser: Attempting asset rename: char_red_1 -> idle
+[2025.02.22-06.20.43:070][ 68]LogContentBrowser: End creating deferred item char_red_1
+[2025.02.22-06.20.44:436][226]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/assets/character/idle/idle.idle
+[2025.02.22-06.20.44:437][226]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.02.22-06.20.51:293][887]LogSlate: Window 'idle' being destroyed
+[2025.02.22-06.20.51:301][887]LogSlate: Window 'idle' being destroyed
+[2025.02.22-06.20.51:348][887]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.02.22-06.20.51:348][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.22-06.20.51:377][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.02.22-06.21.06:484][776]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.22-06.21.06:524][776]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.22-06.21.06:576][777]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.22-06.21.09:200][ 90]LogContentBrowser: Attempting asset rename: NewFolder -> run
+[2025.02.22-06.21.09:205][ 90]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.22-06.21.16:659][346]LogShaderCompilers: Display: ================================================
+[2025.02.22-06.21.16:659][346]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.22-06.21.16:659][346]LogShaderCompilers: Display: Total job queries 134, among them cache hits 12 (8.96%), DDC hits 118 (88.06%), Duplicates 2 (1.49%)
+[2025.02.22-06.21.16:659][346]LogShaderCompilers: Display: Tracking 120 distinct input hashes that result in 119 distinct outputs (99.17%)
+[2025.02.22-06.21.16:659][346]LogShaderCompilers: Display: RAM used: 109,39 KiB of 2,40 GiB budget. Usage: 0.00%
+[2025.02.22-06.21.16:659][346]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display: Shaders Compiled: 2
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.02 s
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display: Job execution time: average 1.49 s, max 1.49 s
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display: Job life time (pending + execution): average 1.52 s, max 1.52
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display: Shader code size: average 6,025 KiB, min 4,102 KiB, max 7,949 KiB
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.52 s
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display: Average processing rate: 1.32 jobs/sec
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display: Total thread time: 0,982 s
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display: Total thread preprocess time: 2,284 s
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display: Percentage time preprocessing: 232.61%
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display: Effective parallelization: 0.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display:                   FRenderVolumetricCloudEmptySpaceSkippingCS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display:                                        FCloudRenderViewPS001 (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display:                                                  FHitProxyPS - 53.35% of total time (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display:                                                  FHitProxyVS - 46.65% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display:                   FRenderVolumetricCloudEmptySpaceSkippingCS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display:                                        FCloudRenderViewPS001 - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display: === Material stats ===
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display: Materials Translated:    125
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display: Material Translation Only: 0.04 s (58%)
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display: Material Cache Hits: 37 (30%)
+[2025.02.22-06.21.16:660][346]LogShaderCompilers: Display: ================================================
+[2025.02.22-06.21.47:898][834]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-06.21.47:898][834]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/run/char_red_1_Sprite_16] ([1] browsable assets)...
+[2025.02.22-06.21.47:900][834]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/run/char_red_1_Sprite_16.char_red_1_Sprite_16]
+[2025.02.22-06.21.47:900][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/run/char_red_1_Sprite_16]
+[2025.02.22-06.21.47:900][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/run/char_red_1_Sprite_16" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/run/char_red_1_Sprite_16.uasset" SILENT=true
+[2025.02.22-06.21.47:910][834]LogSavePackage: Moving output files for package: /Game/assets/character/run/char_red_1_Sprite_16
+[2025.02.22-06.21.47:910][834]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_163D3568C042FC4FF9F6BDBEA973A37A49.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/run/char_red_1_Sprite_16.uasset'
+[2025.02.22-06.21.47:911][834]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/run/char_red_1_Sprite_17] ([1] browsable assets)...
+[2025.02.22-06.21.47:913][834]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/run/char_red_1_Sprite_17.char_red_1_Sprite_17]
+[2025.02.22-06.21.47:913][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/run/char_red_1_Sprite_17]
+[2025.02.22-06.21.47:913][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/run/char_red_1_Sprite_17" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/run/char_red_1_Sprite_17.uasset" SILENT=true
+[2025.02.22-06.21.47:922][834]LogSavePackage: Moving output files for package: /Game/assets/character/run/char_red_1_Sprite_17
+[2025.02.22-06.21.47:922][834]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_17A7BE0A5C4B1E0AD32C266791E686715D.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/run/char_red_1_Sprite_17.uasset'
+[2025.02.22-06.21.47:924][834]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/run/char_red_1_Sprite_18] ([1] browsable assets)...
+[2025.02.22-06.21.47:925][834]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/run/char_red_1_Sprite_18.char_red_1_Sprite_18]
+[2025.02.22-06.21.47:925][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/run/char_red_1_Sprite_18]
+[2025.02.22-06.21.47:925][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/run/char_red_1_Sprite_18" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/run/char_red_1_Sprite_18.uasset" SILENT=true
+[2025.02.22-06.21.47:935][834]LogSavePackage: Moving output files for package: /Game/assets/character/run/char_red_1_Sprite_18
+[2025.02.22-06.21.47:935][834]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_18FF0830434B012D4A158EA5B2533E42B9.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/run/char_red_1_Sprite_18.uasset'
+[2025.02.22-06.21.47:936][834]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/run/char_red_1_Sprite_19] ([1] browsable assets)...
+[2025.02.22-06.21.47:938][834]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/run/char_red_1_Sprite_19.char_red_1_Sprite_19]
+[2025.02.22-06.21.47:938][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/run/char_red_1_Sprite_19]
+[2025.02.22-06.21.47:938][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/run/char_red_1_Sprite_19" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/run/char_red_1_Sprite_19.uasset" SILENT=true
+[2025.02.22-06.21.47:947][834]LogSavePackage: Moving output files for package: /Game/assets/character/run/char_red_1_Sprite_19
+[2025.02.22-06.21.47:947][834]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_198C1906414E4D1648532B7397E315C8D4.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/run/char_red_1_Sprite_19.uasset'
+[2025.02.22-06.21.47:949][834]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/run/char_red_1_Sprite_20] ([1] browsable assets)...
+[2025.02.22-06.21.47:950][834]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/run/char_red_1_Sprite_20.char_red_1_Sprite_20]
+[2025.02.22-06.21.47:950][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/run/char_red_1_Sprite_20]
+[2025.02.22-06.21.47:950][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/run/char_red_1_Sprite_20" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/run/char_red_1_Sprite_20.uasset" SILENT=true
+[2025.02.22-06.21.47:959][834]LogSavePackage: Moving output files for package: /Game/assets/character/run/char_red_1_Sprite_20
+[2025.02.22-06.21.47:959][834]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_2001D5D6D84B2C4C72D1DF18983F700C06.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/run/char_red_1_Sprite_20.uasset'
+[2025.02.22-06.21.47:960][834]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/run/char_red_1_Sprite_21] ([1] browsable assets)...
+[2025.02.22-06.21.47:962][834]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/run/char_red_1_Sprite_21.char_red_1_Sprite_21]
+[2025.02.22-06.21.47:962][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/run/char_red_1_Sprite_21]
+[2025.02.22-06.21.47:962][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/run/char_red_1_Sprite_21" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/run/char_red_1_Sprite_21.uasset" SILENT=true
+[2025.02.22-06.21.47:972][834]LogSavePackage: Moving output files for package: /Game/assets/character/run/char_red_1_Sprite_21
+[2025.02.22-06.21.47:972][834]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_21DF5E9D0B43C5E43ED3465F860CE7CDD2.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/run/char_red_1_Sprite_21.uasset'
+[2025.02.22-06.21.47:973][834]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/run/char_red_1_Sprite_22] ([1] browsable assets)...
+[2025.02.22-06.21.47:975][834]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/run/char_red_1_Sprite_22.char_red_1_Sprite_22]
+[2025.02.22-06.21.47:975][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/run/char_red_1_Sprite_22]
+[2025.02.22-06.21.47:975][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/run/char_red_1_Sprite_22" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/run/char_red_1_Sprite_22.uasset" SILENT=true
+[2025.02.22-06.21.47:984][834]LogSavePackage: Moving output files for package: /Game/assets/character/run/char_red_1_Sprite_22
+[2025.02.22-06.21.47:984][834]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_22482C6FF741BA6C3343A859A2C457D564.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/run/char_red_1_Sprite_22.uasset'
+[2025.02.22-06.21.47:985][834]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/run/char_red_1_Sprite_23] ([1] browsable assets)...
+[2025.02.22-06.21.47:987][834]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/run/char_red_1_Sprite_23.char_red_1_Sprite_23]
+[2025.02.22-06.21.47:987][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/run/char_red_1_Sprite_23]
+[2025.02.22-06.21.47:987][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/run/char_red_1_Sprite_23" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/run/char_red_1_Sprite_23.uasset" SILENT=true
+[2025.02.22-06.21.47:996][834]LogSavePackage: Moving output files for package: /Game/assets/character/run/char_red_1_Sprite_23
+[2025.02.22-06.21.47:997][834]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_23794B95944F41F3698FC696BA80ACEC5F.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/run/char_red_1_Sprite_23.uasset'
+[2025.02.22-06.21.47:998][834]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.894 ms (total: 1.87 sec)
+[2025.02.22-06.21.48:122][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.02.22-06.21.48:133][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.02.22-06.21.48:144][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.02.22-06.21.48:165][834]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.02.22-06.21.48:165][834]LogContentValidation: Display: Starting to validate 8 assets
+[2025.02.22-06.21.48:165][834]LogContentValidation: Enabled validators:
+[2025.02.22-06.21.48:165][834]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-06.21.48:165][834]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-06.21.48:165][834]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-06.21.48:165][834]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-06.21.48:165][834]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-06.21.48:165][834]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-06.21.48:165][834]AssetCheck: /Game/assets/character/run/char_red_1_Sprite_16 Validating asset
+[2025.02.22-06.21.48:165][834]AssetCheck: /Game/assets/character/run/char_red_1_Sprite_17 Validating asset
+[2025.02.22-06.21.48:165][834]AssetCheck: /Game/assets/character/run/char_red_1_Sprite_18 Validating asset
+[2025.02.22-06.21.48:165][834]AssetCheck: /Game/assets/character/run/char_red_1_Sprite_19 Validating asset
+[2025.02.22-06.21.48:165][834]AssetCheck: /Game/assets/character/run/char_red_1_Sprite_20 Validating asset
+[2025.02.22-06.21.48:165][834]AssetCheck: /Game/assets/character/run/char_red_1_Sprite_21 Validating asset
+[2025.02.22-06.21.48:165][834]AssetCheck: /Game/assets/character/run/char_red_1_Sprite_22 Validating asset
+[2025.02.22-06.21.48:165][834]AssetCheck: /Game/assets/character/run/char_red_1_Sprite_23 Validating asset
+[2025.02.22-06.21.53:563][452]LogContentBrowser: Deferred new asset file creation: char_red_1
+[2025.02.22-06.21.53:583][452]LogContentBrowser: Creating deferred item: char_red_1
+[2025.02.22-06.21.53:595][453]LogContentBrowser: Renaming the item being created (Deferred Item: char_red_1).
+[2025.02.22-06.21.56:735][829]LogContentBrowser: Attempting asset rename: char_red_1 -> run
+[2025.02.22-06.21.56:736][829]LogContentBrowser: End creating deferred item char_red_1
+[2025.02.22-06.21.58:735][ 64]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/assets/character/run/run.run
+[2025.02.22-06.21.58:737][ 64]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.02.22-06.22.11:444][613]LogSlate: Window 'run' being destroyed
+[2025.02.22-06.22.11:450][613]LogSlate: Window 'run' being destroyed
+[2025.02.22-06.22.11:495][613]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.02.22-06.22.11:495][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.22-06.22.11:523][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.02.22-06.22.58:983][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.02.22-06.23.00:687][520]LogSlate: Window 'Save Content' being destroyed
+[2025.02.22-06.23.00:708][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-06.23.00:766][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1] ([1] browsable assets)...
+[2025.02.22-06.23.00:767][520]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/assets/character/char_red_1.char_red_1]
+[2025.02.22-06.23.00:767][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1]
+[2025.02.22-06.23.00:767][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1.uasset" SILENT=true
+[2025.02.22-06.23.00:948][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1
+[2025.02.22-06.23.00:948][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_18587A3F3438C2B770CC55392B7CF85F9.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1.uasset'
+[2025.02.22-06.23.00:950][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_10] ([1] browsable assets)...
+[2025.02.22-06.23.00:951][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_10.char_red_1_Sprite_10]
+[2025.02.22-06.23.00:951][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_10]
+[2025.02.22-06.23.00:951][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_10" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_10.uasset" SILENT=true
+[2025.02.22-06.23.00:961][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_10
+[2025.02.22-06.23.00:961][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_108F7B312548CEDFD085565981E5FA06E8.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_10.uasset'
+[2025.02.22-06.23.00:962][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_11] ([1] browsable assets)...
+[2025.02.22-06.23.00:964][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_11.char_red_1_Sprite_11]
+[2025.02.22-06.23.00:964][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_11]
+[2025.02.22-06.23.00:964][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_11" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_11.uasset" SILENT=true
+[2025.02.22-06.23.00:975][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_11
+[2025.02.22-06.23.00:975][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_117C217A044BB75D9A367BC0BA8131EB0F.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_11.uasset'
+[2025.02.22-06.23.00:976][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_12] ([1] browsable assets)...
+[2025.02.22-06.23.00:978][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_12.char_red_1_Sprite_12]
+[2025.02.22-06.23.00:978][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_12]
+[2025.02.22-06.23.00:978][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_12" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_12.uasset" SILENT=true
+[2025.02.22-06.23.00:987][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_12
+[2025.02.22-06.23.00:987][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_127590577D402A71DBA5429BA3EBA979EF.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_12.uasset'
+[2025.02.22-06.23.00:988][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_13] ([1] browsable assets)...
+[2025.02.22-06.23.00:990][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_13.char_red_1_Sprite_13]
+[2025.02.22-06.23.00:990][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_13]
+[2025.02.22-06.23.00:990][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_13" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_13.uasset" SILENT=true
+[2025.02.22-06.23.01:000][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_13
+[2025.02.22-06.23.01:000][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_13C528E60F4DF23E86B0726FA53D1443D6.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_13.uasset'
+[2025.02.22-06.23.01:001][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_14] ([1] browsable assets)...
+[2025.02.22-06.23.01:002][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_14.char_red_1_Sprite_14]
+[2025.02.22-06.23.01:002][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_14]
+[2025.02.22-06.23.01:002][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_14" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_14.uasset" SILENT=true
+[2025.02.22-06.23.01:012][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_14
+[2025.02.22-06.23.01:012][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_1430012FC54FF07535D16356876C991B64.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_14.uasset'
+[2025.02.22-06.23.01:013][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_15] ([1] browsable assets)...
+[2025.02.22-06.23.01:015][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_15.char_red_1_Sprite_15]
+[2025.02.22-06.23.01:015][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_15]
+[2025.02.22-06.23.01:015][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_15" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_15.uasset" SILENT=true
+[2025.02.22-06.23.01:025][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_15
+[2025.02.22-06.23.01:025][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_15D8C1A81A4F0C0F011710C6821B17680B.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_15.uasset'
+[2025.02.22-06.23.01:027][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_24] ([1] browsable assets)...
+[2025.02.22-06.23.01:029][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_24.char_red_1_Sprite_24]
+[2025.02.22-06.23.01:029][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_24]
+[2025.02.22-06.23.01:029][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_24" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_24.uasset" SILENT=true
+[2025.02.22-06.23.01:039][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_24
+[2025.02.22-06.23.01:040][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_244E6D9A89429591E2936C69B223BDC920.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_24.uasset'
+[2025.02.22-06.23.01:041][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_25] ([1] browsable assets)...
+[2025.02.22-06.23.01:043][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_25.char_red_1_Sprite_25]
+[2025.02.22-06.23.01:043][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_25]
+[2025.02.22-06.23.01:043][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_25" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_25.uasset" SILENT=true
+[2025.02.22-06.23.01:053][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_25
+[2025.02.22-06.23.01:053][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_25F3815DE04831EA09435A17A94DF69EB6.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_25.uasset'
+[2025.02.22-06.23.01:054][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_26] ([1] browsable assets)...
+[2025.02.22-06.23.01:056][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_26.char_red_1_Sprite_26]
+[2025.02.22-06.23.01:056][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_26]
+[2025.02.22-06.23.01:056][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_26" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_26.uasset" SILENT=true
+[2025.02.22-06.23.01:066][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_26
+[2025.02.22-06.23.01:066][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_26093630B7472D40EA4B2E4984E5779FB4.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_26.uasset'
+[2025.02.22-06.23.01:067][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_27] ([1] browsable assets)...
+[2025.02.22-06.23.01:069][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_27.char_red_1_Sprite_27]
+[2025.02.22-06.23.01:069][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_27]
+[2025.02.22-06.23.01:069][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_27" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_27.uasset" SILENT=true
+[2025.02.22-06.23.01:078][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_27
+[2025.02.22-06.23.01:078][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_27A280E13E4951513971D63987228DD11A.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_27.uasset'
+[2025.02.22-06.23.01:080][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_28] ([1] browsable assets)...
+[2025.02.22-06.23.01:081][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_28.char_red_1_Sprite_28]
+[2025.02.22-06.23.01:081][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_28]
+[2025.02.22-06.23.01:081][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_28" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_28.uasset" SILENT=true
+[2025.02.22-06.23.01:092][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_28
+[2025.02.22-06.23.01:092][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_28A5AF18DB41060DCA9EF4A79061CDF481.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_28.uasset'
+[2025.02.22-06.23.01:093][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_29] ([1] browsable assets)...
+[2025.02.22-06.23.01:096][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_29.char_red_1_Sprite_29]
+[2025.02.22-06.23.01:096][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_29]
+[2025.02.22-06.23.01:096][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_29" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_29.uasset" SILENT=true
+[2025.02.22-06.23.01:105][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_29
+[2025.02.22-06.23.01:105][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_293B2EF67741EBC39D0B1324BC08E85288.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_29.uasset'
+[2025.02.22-06.23.01:107][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_30] ([1] browsable assets)...
+[2025.02.22-06.23.01:108][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_30.char_red_1_Sprite_30]
+[2025.02.22-06.23.01:108][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_30]
+[2025.02.22-06.23.01:108][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_30" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_30.uasset" SILENT=true
+[2025.02.22-06.23.01:118][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_30
+[2025.02.22-06.23.01:118][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_30FC2E1FE44CBFA0BD33A275B9A70956CB.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_30.uasset'
+[2025.02.22-06.23.01:119][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_31] ([1] browsable assets)...
+[2025.02.22-06.23.01:122][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_31.char_red_1_Sprite_31]
+[2025.02.22-06.23.01:122][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_31]
+[2025.02.22-06.23.01:122][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_31" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_31.uasset" SILENT=true
+[2025.02.22-06.23.01:132][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_31
+[2025.02.22-06.23.01:132][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_31A951DF374581680CB1987C8A5277EF8D.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_31.uasset'
+[2025.02.22-06.23.01:134][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_32] ([1] browsable assets)...
+[2025.02.22-06.23.01:135][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_32.char_red_1_Sprite_32]
+[2025.02.22-06.23.01:135][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_32]
+[2025.02.22-06.23.01:135][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_32" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_32.uasset" SILENT=true
+[2025.02.22-06.23.01:145][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_32
+[2025.02.22-06.23.01:145][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_3297A677BB47473EFA74E3E9A07F0CBB70.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_32.uasset'
+[2025.02.22-06.23.01:147][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_33] ([1] browsable assets)...
+[2025.02.22-06.23.01:148][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_33.char_red_1_Sprite_33]
+[2025.02.22-06.23.01:149][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_33]
+[2025.02.22-06.23.01:149][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_33" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_33.uasset" SILENT=true
+[2025.02.22-06.23.01:158][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_33
+[2025.02.22-06.23.01:158][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_33C18D501D469A2A53576355B2EB06741C.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_33.uasset'
+[2025.02.22-06.23.01:159][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_34] ([1] browsable assets)...
+[2025.02.22-06.23.01:161][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_34.char_red_1_Sprite_34]
+[2025.02.22-06.23.01:161][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_34]
+[2025.02.22-06.23.01:161][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_34" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_34.uasset" SILENT=true
+[2025.02.22-06.23.01:171][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_34
+[2025.02.22-06.23.01:171][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_34BBB77A9948F73B09F43BF480057712D3.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_34.uasset'
+[2025.02.22-06.23.01:174][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_35] ([1] browsable assets)...
+[2025.02.22-06.23.01:176][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_35.char_red_1_Sprite_35]
+[2025.02.22-06.23.01:176][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_35]
+[2025.02.22-06.23.01:176][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_35" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_35.uasset" SILENT=true
+[2025.02.22-06.23.01:184][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_35
+[2025.02.22-06.23.01:184][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_352B2312204FE8805B394BC1BF67F8C33D.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_35.uasset'
+[2025.02.22-06.23.01:186][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_36] ([1] browsable assets)...
+[2025.02.22-06.23.01:188][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_36.char_red_1_Sprite_36]
+[2025.02.22-06.23.01:188][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_36]
+[2025.02.22-06.23.01:188][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_36" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_36.uasset" SILENT=true
+[2025.02.22-06.23.01:197][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_36
+[2025.02.22-06.23.01:197][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_36C5A885944FC5436BFFC7EA867931E5E9.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_36.uasset'
+[2025.02.22-06.23.01:199][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_37] ([1] browsable assets)...
+[2025.02.22-06.23.01:201][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_37.char_red_1_Sprite_37]
+[2025.02.22-06.23.01:201][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_37]
+[2025.02.22-06.23.01:201][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_37" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_37.uasset" SILENT=true
+[2025.02.22-06.23.01:210][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_37
+[2025.02.22-06.23.01:210][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_378AAC023C486041D5A362D3A0D98C7B15.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_37.uasset'
+[2025.02.22-06.23.01:212][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_38] ([1] browsable assets)...
+[2025.02.22-06.23.01:213][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_38.char_red_1_Sprite_38]
+[2025.02.22-06.23.01:214][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_38]
+[2025.02.22-06.23.01:214][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_38" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_38.uasset" SILENT=true
+[2025.02.22-06.23.01:223][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_38
+[2025.02.22-06.23.01:223][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_3896FB6EAC4F2CA5E4987CB28D198BF198.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_38.uasset'
+[2025.02.22-06.23.01:224][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_39] ([1] browsable assets)...
+[2025.02.22-06.23.01:227][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_39.char_red_1_Sprite_39]
+[2025.02.22-06.23.01:227][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_39]
+[2025.02.22-06.23.01:227][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_39" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_39.uasset" SILENT=true
+[2025.02.22-06.23.01:236][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_39
+[2025.02.22-06.23.01:236][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_39FE99635640598A6574EADDA9F7F592DE.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_39.uasset'
+[2025.02.22-06.23.01:237][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_40] ([1] browsable assets)...
+[2025.02.22-06.23.01:240][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_40.char_red_1_Sprite_40]
+[2025.02.22-06.23.01:240][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_40]
+[2025.02.22-06.23.01:240][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_40" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_40.uasset" SILENT=true
+[2025.02.22-06.23.01:249][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_40
+[2025.02.22-06.23.01:250][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_40DDFB040F499ACB5F1AC8D6BCBA08CC55.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_40.uasset'
+[2025.02.22-06.23.01:251][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_41] ([1] browsable assets)...
+[2025.02.22-06.23.01:252][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_41.char_red_1_Sprite_41]
+[2025.02.22-06.23.01:252][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_41]
+[2025.02.22-06.23.01:252][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_41" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_41.uasset" SILENT=true
+[2025.02.22-06.23.01:262][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_41
+[2025.02.22-06.23.01:262][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_41DEC5982445DFB9252C30869FC333D667.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_41.uasset'
+[2025.02.22-06.23.01:263][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_42] ([1] browsable assets)...
+[2025.02.22-06.23.01:265][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_42.char_red_1_Sprite_42]
+[2025.02.22-06.23.01:265][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_42]
+[2025.02.22-06.23.01:265][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_42" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_42.uasset" SILENT=true
+[2025.02.22-06.23.01:275][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_42
+[2025.02.22-06.23.01:275][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_42457DBF7C42E7322538C4DCBAF8172F04.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_42.uasset'
+[2025.02.22-06.23.01:276][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_43] ([1] browsable assets)...
+[2025.02.22-06.23.01:278][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_43.char_red_1_Sprite_43]
+[2025.02.22-06.23.01:278][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_43]
+[2025.02.22-06.23.01:278][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_43" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_43.uasset" SILENT=true
+[2025.02.22-06.23.01:287][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_43
+[2025.02.22-06.23.01:287][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_4303DEE4F9478F7165B0F0BF91B4FDCED6.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_43.uasset'
+[2025.02.22-06.23.01:289][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_44] ([1] browsable assets)...
+[2025.02.22-06.23.01:291][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_44.char_red_1_Sprite_44]
+[2025.02.22-06.23.01:291][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_44]
+[2025.02.22-06.23.01:291][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_44" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_44.uasset" SILENT=true
+[2025.02.22-06.23.01:300][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_44
+[2025.02.22-06.23.01:300][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_44543E507A45255CF1EB1DCBAA20E09419.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_44.uasset'
+[2025.02.22-06.23.01:302][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_45] ([1] browsable assets)...
+[2025.02.22-06.23.01:303][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_45.char_red_1_Sprite_45]
+[2025.02.22-06.23.01:303][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_45]
+[2025.02.22-06.23.01:303][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_45" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_45.uasset" SILENT=true
+[2025.02.22-06.23.01:313][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_45
+[2025.02.22-06.23.01:313][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_45EF12AD9B412888303746E09A1D627D14.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_45.uasset'
+[2025.02.22-06.23.01:314][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_46] ([1] browsable assets)...
+[2025.02.22-06.23.01:317][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_46.char_red_1_Sprite_46]
+[2025.02.22-06.23.01:317][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_46]
+[2025.02.22-06.23.01:317][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_46" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_46.uasset" SILENT=true
+[2025.02.22-06.23.01:328][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_46
+[2025.02.22-06.23.01:328][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_462FBF3EF443E15BF460F7FA893DADDF58.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_46.uasset'
+[2025.02.22-06.23.01:330][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_47] ([1] browsable assets)...
+[2025.02.22-06.23.01:332][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_47.char_red_1_Sprite_47]
+[2025.02.22-06.23.01:332][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_47]
+[2025.02.22-06.23.01:332][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_47" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_47.uasset" SILENT=true
+[2025.02.22-06.23.01:342][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_47
+[2025.02.22-06.23.01:342][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_476C2AC3E8445E0DBE932BB789E2C3A7AC.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_47.uasset'
+[2025.02.22-06.23.01:344][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_48] ([1] browsable assets)...
+[2025.02.22-06.23.01:345][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_48.char_red_1_Sprite_48]
+[2025.02.22-06.23.01:345][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_48]
+[2025.02.22-06.23.01:345][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_48" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_48.uasset" SILENT=true
+[2025.02.22-06.23.01:355][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_48
+[2025.02.22-06.23.01:355][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_48AB1C903A4741BD5CB89BB98963466CD5.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_48.uasset'
+[2025.02.22-06.23.01:356][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_49] ([1] browsable assets)...
+[2025.02.22-06.23.01:358][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_49.char_red_1_Sprite_49]
+[2025.02.22-06.23.01:358][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_49]
+[2025.02.22-06.23.01:358][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_49" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_49.uasset" SILENT=true
+[2025.02.22-06.23.01:367][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_49
+[2025.02.22-06.23.01:368][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_496B9FFAAF4F3F14B80E2AD8A98EA58631.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_49.uasset'
+[2025.02.22-06.23.01:369][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_50] ([1] browsable assets)...
+[2025.02.22-06.23.01:370][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_50.char_red_1_Sprite_50]
+[2025.02.22-06.23.01:370][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_50]
+[2025.02.22-06.23.01:370][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_50" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_50.uasset" SILENT=true
+[2025.02.22-06.23.01:382][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_50
+[2025.02.22-06.23.01:382][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_508BF0476848187E96A9D637B68E5928C6.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_50.uasset'
+[2025.02.22-06.23.01:383][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_51] ([1] browsable assets)...
+[2025.02.22-06.23.01:385][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_51.char_red_1_Sprite_51]
+[2025.02.22-06.23.01:385][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_51]
+[2025.02.22-06.23.01:385][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_51" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_51.uasset" SILENT=true
+[2025.02.22-06.23.01:395][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_51
+[2025.02.22-06.23.01:395][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_513A2749E848E973CB74940186A70E0AC3.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_51.uasset'
+[2025.02.22-06.23.01:397][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_52] ([1] browsable assets)...
+[2025.02.22-06.23.01:399][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_52.char_red_1_Sprite_52]
+[2025.02.22-06.23.01:399][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_52]
+[2025.02.22-06.23.01:399][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_52" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_52.uasset" SILENT=true
+[2025.02.22-06.23.01:408][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_52
+[2025.02.22-06.23.01:408][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_52CF9A3A14472893FBE38AD09169E16F13.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_52.uasset'
+[2025.02.22-06.23.01:409][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_53] ([1] browsable assets)...
+[2025.02.22-06.23.01:411][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_53.char_red_1_Sprite_53]
+[2025.02.22-06.23.01:411][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_53]
+[2025.02.22-06.23.01:411][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_53" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_53.uasset" SILENT=true
+[2025.02.22-06.23.01:421][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_53
+[2025.02.22-06.23.01:421][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_534CD65EE2423513838684319E98C34506.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_53.uasset'
+[2025.02.22-06.23.01:423][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_54] ([1] browsable assets)...
+[2025.02.22-06.23.01:425][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_54.char_red_1_Sprite_54]
+[2025.02.22-06.23.01:425][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_54]
+[2025.02.22-06.23.01:425][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_54" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_54.uasset" SILENT=true
+[2025.02.22-06.23.01:435][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_54
+[2025.02.22-06.23.01:435][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_542FAC201A4952FD18CB7DC79E0EAFB6D0.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_54.uasset'
+[2025.02.22-06.23.01:436][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_55] ([1] browsable assets)...
+[2025.02.22-06.23.01:437][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_55.char_red_1_Sprite_55]
+[2025.02.22-06.23.01:437][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_55]
+[2025.02.22-06.23.01:437][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_55" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_55.uasset" SILENT=true
+[2025.02.22-06.23.01:447][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_55
+[2025.02.22-06.23.01:447][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_559992565D4DB9161067307B84322E7D2D.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_55.uasset'
+[2025.02.22-06.23.01:449][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_56] ([1] browsable assets)...
+[2025.02.22-06.23.01:450][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_56.char_red_1_Sprite_56]
+[2025.02.22-06.23.01:450][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_56]
+[2025.02.22-06.23.01:450][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_56" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_56.uasset" SILENT=true
+[2025.02.22-06.23.01:460][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_56
+[2025.02.22-06.23.01:460][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_56F052C5794A36079C263488BB932AB369.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_56.uasset'
+[2025.02.22-06.23.01:462][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_57] ([1] browsable assets)...
+[2025.02.22-06.23.01:463][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_57.char_red_1_Sprite_57]
+[2025.02.22-06.23.01:463][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_57]
+[2025.02.22-06.23.01:463][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_57" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_57.uasset" SILENT=true
+[2025.02.22-06.23.01:473][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_57
+[2025.02.22-06.23.01:473][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_57B9DE62794C15D205C91061BEA2B5788D.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_57.uasset'
+[2025.02.22-06.23.01:475][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_58] ([1] browsable assets)...
+[2025.02.22-06.23.01:476][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_58.char_red_1_Sprite_58]
+[2025.02.22-06.23.01:476][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_58]
+[2025.02.22-06.23.01:476][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_58" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_58.uasset" SILENT=true
+[2025.02.22-06.23.01:484][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_58
+[2025.02.22-06.23.01:486][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_5866632500430F0694F4C18DBB875A5002.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_58.uasset'
+[2025.02.22-06.23.01:487][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_59] ([1] browsable assets)...
+[2025.02.22-06.23.01:489][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_59.char_red_1_Sprite_59]
+[2025.02.22-06.23.01:489][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_59]
+[2025.02.22-06.23.01:489][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_59" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_59.uasset" SILENT=true
+[2025.02.22-06.23.01:499][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_59
+[2025.02.22-06.23.01:499][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_5983226EFD4ADCB0F65E9D3AB302F7531B.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_59.uasset'
+[2025.02.22-06.23.01:501][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_6] ([1] browsable assets)...
+[2025.02.22-06.23.01:503][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_6.char_red_1_Sprite_6]
+[2025.02.22-06.23.01:503][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_6]
+[2025.02.22-06.23.01:503][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_6" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_6.uasset" SILENT=true
+[2025.02.22-06.23.01:513][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_6
+[2025.02.22-06.23.01:513][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_604D3C63B43C92D7D386F9C934A560117.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_6.uasset'
+[2025.02.22-06.23.01:514][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_60] ([1] browsable assets)...
+[2025.02.22-06.23.01:516][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_60.char_red_1_Sprite_60]
+[2025.02.22-06.23.01:516][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_60]
+[2025.02.22-06.23.01:517][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_60" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_60.uasset" SILENT=true
+[2025.02.22-06.23.01:526][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_60
+[2025.02.22-06.23.01:526][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_604BC3AEFB43160891C1E5CE8A973C38F3.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_60.uasset'
+[2025.02.22-06.23.01:528][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_61] ([1] browsable assets)...
+[2025.02.22-06.23.01:529][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_61.char_red_1_Sprite_61]
+[2025.02.22-06.23.01:529][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_61]
+[2025.02.22-06.23.01:529][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_61" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_61.uasset" SILENT=true
+[2025.02.22-06.23.01:539][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_61
+[2025.02.22-06.23.01:539][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_611FBF6EB745759956AEA53BB2A1CD9470.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_61.uasset'
+[2025.02.22-06.23.01:541][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_62] ([1] browsable assets)...
+[2025.02.22-06.23.01:543][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_62.char_red_1_Sprite_62]
+[2025.02.22-06.23.01:543][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_62]
+[2025.02.22-06.23.01:543][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_62" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_62.uasset" SILENT=true
+[2025.02.22-06.23.01:552][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_62
+[2025.02.22-06.23.01:552][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_62134681354EF78EC9BF83B99FC685B0D1.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_62.uasset'
+[2025.02.22-06.23.01:553][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_63] ([1] browsable assets)...
+[2025.02.22-06.23.01:555][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_63.char_red_1_Sprite_63]
+[2025.02.22-06.23.01:555][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_63]
+[2025.02.22-06.23.01:555][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_63" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_63.uasset" SILENT=true
+[2025.02.22-06.23.01:565][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_63
+[2025.02.22-06.23.01:565][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_63EB82B6024A2AC414F394A2AC7AC5B755.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_63.uasset'
+[2025.02.22-06.23.01:566][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_64] ([1] browsable assets)...
+[2025.02.22-06.23.01:568][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_64.char_red_1_Sprite_64]
+[2025.02.22-06.23.01:568][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_64]
+[2025.02.22-06.23.01:568][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_64" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_64.uasset" SILENT=true
+[2025.02.22-06.23.01:578][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_64
+[2025.02.22-06.23.01:578][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_64A792946E4A8346C71B9AA2AC071067F7.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_64.uasset'
+[2025.02.22-06.23.01:580][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_65] ([1] browsable assets)...
+[2025.02.22-06.23.01:582][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_65.char_red_1_Sprite_65]
+[2025.02.22-06.23.01:582][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_65]
+[2025.02.22-06.23.01:582][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_65" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_65.uasset" SILENT=true
+[2025.02.22-06.23.01:592][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_65
+[2025.02.22-06.23.01:592][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_655ECDE6E440A5BB8EE7EB619649F4196F.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_65.uasset'
+[2025.02.22-06.23.01:594][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_66] ([1] browsable assets)...
+[2025.02.22-06.23.01:596][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_66.char_red_1_Sprite_66]
+[2025.02.22-06.23.01:596][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_66]
+[2025.02.22-06.23.01:596][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_66" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_66.uasset" SILENT=true
+[2025.02.22-06.23.01:606][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_66
+[2025.02.22-06.23.01:606][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_663F32FAEC4CAE64511A83EC98FD46E03A.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_66.uasset'
+[2025.02.22-06.23.01:607][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_67] ([1] browsable assets)...
+[2025.02.22-06.23.01:608][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_67.char_red_1_Sprite_67]
+[2025.02.22-06.23.01:609][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_67]
+[2025.02.22-06.23.01:609][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_67" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_67.uasset" SILENT=true
+[2025.02.22-06.23.01:618][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_67
+[2025.02.22-06.23.01:618][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_6704718DC244CA78BABFFDDDB7B0B590C8.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_67.uasset'
+[2025.02.22-06.23.01:620][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_68] ([1] browsable assets)...
+[2025.02.22-06.23.01:622][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_68.char_red_1_Sprite_68]
+[2025.02.22-06.23.01:622][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_68]
+[2025.02.22-06.23.01:622][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_68" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_68.uasset" SILENT=true
+[2025.02.22-06.23.01:631][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_68
+[2025.02.22-06.23.01:632][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_6863D529D34004F0BD4D8FAAB7EFDA9FAB.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_68.uasset'
+[2025.02.22-06.23.01:633][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_69] ([1] browsable assets)...
+[2025.02.22-06.23.01:634][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_69.char_red_1_Sprite_69]
+[2025.02.22-06.23.01:634][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_69]
+[2025.02.22-06.23.01:634][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_69" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_69.uasset" SILENT=true
+[2025.02.22-06.23.01:646][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_69
+[2025.02.22-06.23.01:646][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_69F498EEA74DC59C470665D9A64DB458E5.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_69.uasset'
+[2025.02.22-06.23.01:647][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_7] ([1] browsable assets)...
+[2025.02.22-06.23.01:649][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_7.char_red_1_Sprite_7]
+[2025.02.22-06.23.01:649][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_7]
+[2025.02.22-06.23.01:649][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_7" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_7.uasset" SILENT=true
+[2025.02.22-06.23.01:658][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_7
+[2025.02.22-06.23.01:658][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_75FAE90794A35DCC67B371AA220183892.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_7.uasset'
+[2025.02.22-06.23.01:660][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_70] ([1] browsable assets)...
+[2025.02.22-06.23.01:662][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_70.char_red_1_Sprite_70]
+[2025.02.22-06.23.01:662][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_70]
+[2025.02.22-06.23.01:662][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_70" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_70.uasset" SILENT=true
+[2025.02.22-06.23.01:672][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_70
+[2025.02.22-06.23.01:672][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_70CB75A1E144A6D8F76F9BF3A29E4D3F29.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_70.uasset'
+[2025.02.22-06.23.01:673][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_71] ([1] browsable assets)...
+[2025.02.22-06.23.01:675][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_71.char_red_1_Sprite_71]
+[2025.02.22-06.23.01:675][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_71]
+[2025.02.22-06.23.01:675][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_71" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_71.uasset" SILENT=true
+[2025.02.22-06.23.01:684][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_71
+[2025.02.22-06.23.01:684][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_718DBE148B4975706F0FDC5980E0148885.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_71.uasset'
+[2025.02.22-06.23.01:686][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_72] ([1] browsable assets)...
+[2025.02.22-06.23.01:687][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_72.char_red_1_Sprite_72]
+[2025.02.22-06.23.01:687][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_72]
+[2025.02.22-06.23.01:687][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_72" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_72.uasset" SILENT=true
+[2025.02.22-06.23.01:697][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_72
+[2025.02.22-06.23.01:697][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_721F2454EF4B425F5BC06B35AEAE04453C.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_72.uasset'
+[2025.02.22-06.23.01:699][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_73] ([1] browsable assets)...
+[2025.02.22-06.23.01:700][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_73.char_red_1_Sprite_73]
+[2025.02.22-06.23.01:700][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_73]
+[2025.02.22-06.23.01:700][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_73" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_73.uasset" SILENT=true
+[2025.02.22-06.23.01:710][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_73
+[2025.02.22-06.23.01:710][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_7378F019B5453A96AB3A2487A186D299BC.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_73.uasset'
+[2025.02.22-06.23.01:711][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_74] ([1] browsable assets)...
+[2025.02.22-06.23.01:713][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_74.char_red_1_Sprite_74]
+[2025.02.22-06.23.01:713][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_74]
+[2025.02.22-06.23.01:713][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_74" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_74.uasset" SILENT=true
+[2025.02.22-06.23.01:722][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_74
+[2025.02.22-06.23.01:722][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_74E2AA0C204BB23E6CDC91819B132CD12E.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_74.uasset'
+[2025.02.22-06.23.01:724][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_75] ([1] browsable assets)...
+[2025.02.22-06.23.01:726][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_75.char_red_1_Sprite_75]
+[2025.02.22-06.23.01:726][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_75]
+[2025.02.22-06.23.01:726][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_75" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_75.uasset" SILENT=true
+[2025.02.22-06.23.01:735][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_75
+[2025.02.22-06.23.01:736][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_75B7083B924DABB04DA3945A975851BBBE.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_75.uasset'
+[2025.02.22-06.23.01:737][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_76] ([1] browsable assets)...
+[2025.02.22-06.23.01:739][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_76.char_red_1_Sprite_76]
+[2025.02.22-06.23.01:739][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_76]
+[2025.02.22-06.23.01:739][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_76" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_76.uasset" SILENT=true
+[2025.02.22-06.23.01:749][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_76
+[2025.02.22-06.23.01:749][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_76889794054EF816A9954EE5B617FC1473.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_76.uasset'
+[2025.02.22-06.23.01:751][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_77] ([1] browsable assets)...
+[2025.02.22-06.23.01:752][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_77.char_red_1_Sprite_77]
+[2025.02.22-06.23.01:753][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_77]
+[2025.02.22-06.23.01:753][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_77" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_77.uasset" SILENT=true
+[2025.02.22-06.23.01:762][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_77
+[2025.02.22-06.23.01:762][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_779243B8534D2DA8AE65E05C8CF9D7B804.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_77.uasset'
+[2025.02.22-06.23.01:764][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_78] ([1] browsable assets)...
+[2025.02.22-06.23.01:766][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_78.char_red_1_Sprite_78]
+[2025.02.22-06.23.01:766][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_78]
+[2025.02.22-06.23.01:766][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_78" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_78.uasset" SILENT=true
+[2025.02.22-06.23.01:775][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_78
+[2025.02.22-06.23.01:775][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_78AB2485594552DAEA3FB0E0A4D167DEA0.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_78.uasset'
+[2025.02.22-06.23.01:776][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_79] ([1] browsable assets)...
+[2025.02.22-06.23.01:779][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_79.char_red_1_Sprite_79]
+[2025.02.22-06.23.01:779][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_79]
+[2025.02.22-06.23.01:779][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_79" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_79.uasset" SILENT=true
+[2025.02.22-06.23.01:789][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_79
+[2025.02.22-06.23.01:789][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_796AFCF0F441BBDC5D6BFC1E96B16C82F8.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_79.uasset'
+[2025.02.22-06.23.01:791][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_8] ([1] browsable assets)...
+[2025.02.22-06.23.01:793][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_8.char_red_1_Sprite_8]
+[2025.02.22-06.23.01:793][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_8]
+[2025.02.22-06.23.01:793][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_8" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_8.uasset" SILENT=true
+[2025.02.22-06.23.01:802][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_8
+[2025.02.22-06.23.01:802][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_852809ADC4FE9B19ACB99C98F47D9E72D.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_8.uasset'
+[2025.02.22-06.23.01:803][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_80] ([1] browsable assets)...
+[2025.02.22-06.23.01:805][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_80.char_red_1_Sprite_80]
+[2025.02.22-06.23.01:805][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_80]
+[2025.02.22-06.23.01:805][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_80" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_80.uasset" SILENT=true
+[2025.02.22-06.23.01:814][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_80
+[2025.02.22-06.23.01:814][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_808E29E1AA4E0B45182F4C4DA08D72EAA7.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_80.uasset'
+[2025.02.22-06.23.01:817][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_81] ([1] browsable assets)...
+[2025.02.22-06.23.01:818][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_81.char_red_1_Sprite_81]
+[2025.02.22-06.23.01:818][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_81]
+[2025.02.22-06.23.01:818][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_81" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_81.uasset" SILENT=true
+[2025.02.22-06.23.01:828][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_81
+[2025.02.22-06.23.01:828][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_81649880D348154F532EA81E9C168DEFC6.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_81.uasset'
+[2025.02.22-06.23.01:830][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_82] ([1] browsable assets)...
+[2025.02.22-06.23.01:832][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_82.char_red_1_Sprite_82]
+[2025.02.22-06.23.01:832][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_82]
+[2025.02.22-06.23.01:832][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_82" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_82.uasset" SILENT=true
+[2025.02.22-06.23.01:840][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_82
+[2025.02.22-06.23.01:840][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_8288FAED274B888B96E92D80AAD5FD2CE0.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_82.uasset'
+[2025.02.22-06.23.01:842][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_83] ([1] browsable assets)...
+[2025.02.22-06.23.01:844][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_83.char_red_1_Sprite_83]
+[2025.02.22-06.23.01:844][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_83]
+[2025.02.22-06.23.01:844][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_83" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_83.uasset" SILENT=true
+[2025.02.22-06.23.01:853][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_83
+[2025.02.22-06.23.01:853][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_832D9F6E7C4F93B322214C83846DCD75E0.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_83.uasset'
+[2025.02.22-06.23.01:854][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_84] ([1] browsable assets)...
+[2025.02.22-06.23.01:857][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_84.char_red_1_Sprite_84]
+[2025.02.22-06.23.01:857][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_84]
+[2025.02.22-06.23.01:857][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_84" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_84.uasset" SILENT=true
+[2025.02.22-06.23.01:867][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_84
+[2025.02.22-06.23.01:867][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_845EB8C2054A51BD28C3A856A846299E70.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_84.uasset'
+[2025.02.22-06.23.01:868][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_85] ([1] browsable assets)...
+[2025.02.22-06.23.01:870][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_85.char_red_1_Sprite_85]
+[2025.02.22-06.23.01:870][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_85]
+[2025.02.22-06.23.01:870][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_85" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_85.uasset" SILENT=true
+[2025.02.22-06.23.01:880][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_85
+[2025.02.22-06.23.01:880][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_85ECF0CA44426D34FD2EB1CA87C676A073.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_85.uasset'
+[2025.02.22-06.23.01:882][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_86] ([1] browsable assets)...
+[2025.02.22-06.23.01:883][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_86.char_red_1_Sprite_86]
+[2025.02.22-06.23.01:883][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_86]
+[2025.02.22-06.23.01:883][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_86" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_86.uasset" SILENT=true
+[2025.02.22-06.23.01:894][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_86
+[2025.02.22-06.23.01:894][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_860B5E911048F42C637878EF8C505BC428.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_86.uasset'
+[2025.02.22-06.23.01:896][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_87] ([1] browsable assets)...
+[2025.02.22-06.23.01:896][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_87.char_red_1_Sprite_87]
+[2025.02.22-06.23.01:896][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_87]
+[2025.02.22-06.23.01:896][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_87" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_87.uasset" SILENT=true
+[2025.02.22-06.23.01:907][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_87
+[2025.02.22-06.23.01:907][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_874858B03D487A3B66A73FFFB8112EFF6E.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_87.uasset'
+[2025.02.22-06.23.01:908][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_1_Sprite_9] ([1] browsable assets)...
+[2025.02.22-06.23.01:910][520]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/assets/character/char_red_1_Sprite_9.char_red_1_Sprite_9]
+[2025.02.22-06.23.01:910][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_1_Sprite_9]
+[2025.02.22-06.23.01:910][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_1_Sprite_9" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_9.uasset" SILENT=true
+[2025.02.22-06.23.01:920][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_1_Sprite_9
+[2025.02.22-06.23.01:920][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_1_Sprite_926FA68E5403A9EB5B4875FA290911283.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_1_Sprite_9.uasset'
+[2025.02.22-06.23.01:922][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/char_red_2] ([1] browsable assets)...
+[2025.02.22-06.23.01:924][520]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/assets/character/char_red_2.char_red_2]
+[2025.02.22-06.23.01:924][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/char_red_2]
+[2025.02.22-06.23.01:924][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/char_red_2" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/char_red_2.uasset" SILENT=true
+[2025.02.22-06.23.01:935][520]LogSavePackage: Moving output files for package: /Game/assets/character/char_red_2
+[2025.02.22-06.23.01:935][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/char_red_25BD081A74FAAA83388164DA0A6DBBC2B.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/char_red_2.uasset'
+[2025.02.22-06.23.01:936][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/idle/idle] ([1] browsable assets)...
+[2025.02.22-06.23.01:938][520]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/assets/character/idle/idle.idle]
+[2025.02.22-06.23.01:938][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/idle/idle]
+[2025.02.22-06.23.01:938][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/idle/idle" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/idle/idle.uasset" SILENT=true
+[2025.02.22-06.23.01:948][520]LogSavePackage: Moving output files for package: /Game/assets/character/idle/idle
+[2025.02.22-06.23.01:948][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/idle1DD8E6394053C31374E43C97C6116AB1.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/idle/idle.uasset'
+[2025.02.22-06.23.01:949][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/character/run/run] ([1] browsable assets)...
+[2025.02.22-06.23.01:951][520]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/assets/character/run/run.run]
+[2025.02.22-06.23.01:951][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/character/run/run]
+[2025.02.22-06.23.01:951][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/character/run/run" FILE="G:/cursach/saper_3/MyProject/Content/assets/character/run/run.uasset" SILENT=true
+[2025.02.22-06.23.01:960][520]LogSavePackage: Moving output files for package: /Game/assets/character/run/run
+[2025.02.22-06.23.01:961][520]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/run04C994004B0FC2D464B2FC9645D2AD4E.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/character/run/run.uasset'
+[2025.02.22-06.23.01:971][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.26 sec (total: 3.13 sec)
+[2025.02.22-06.23.02:036][520]LogContentValidation: Display: Starting to validate 78 assets
+[2025.02.22-06.23.02:036][520]LogContentValidation: Enabled validators:
+[2025.02.22-06.23.02:036][520]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-06.23.02:036][520]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-06.23.02:036][520]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-06.23.02:036][520]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-06.23.02:036][520]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-06.23.02:036][520]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-06.23.02:036][520]AssetCheck: /Game/assets/character/char_red_1 Validating asset
+[2025.02.22-06.23.02:036][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_10 Validating asset
+[2025.02.22-06.23.02:036][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_11 Validating asset
+[2025.02.22-06.23.02:036][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_12 Validating asset
+[2025.02.22-06.23.02:036][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_13 Validating asset
+[2025.02.22-06.23.02:036][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_14 Validating asset
+[2025.02.22-06.23.02:037][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_15 Validating asset
+[2025.02.22-06.23.02:037][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_24 Validating asset
+[2025.02.22-06.23.02:037][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_25 Validating asset
+[2025.02.22-06.23.02:037][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_26 Validating asset
+[2025.02.22-06.23.02:037][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_27 Validating asset
+[2025.02.22-06.23.02:037][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_28 Validating asset
+[2025.02.22-06.23.02:037][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_29 Validating asset
+[2025.02.22-06.23.02:037][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_30 Validating asset
+[2025.02.22-06.23.02:037][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_31 Validating asset
+[2025.02.22-06.23.02:037][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_32 Validating asset
+[2025.02.22-06.23.02:037][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_33 Validating asset
+[2025.02.22-06.23.02:037][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_34 Validating asset
+[2025.02.22-06.23.02:037][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_35 Validating asset
+[2025.02.22-06.23.02:037][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_36 Validating asset
+[2025.02.22-06.23.02:038][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_37 Validating asset
+[2025.02.22-06.23.02:038][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_38 Validating asset
+[2025.02.22-06.23.02:038][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_39 Validating asset
+[2025.02.22-06.23.02:038][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_40 Validating asset
+[2025.02.22-06.23.02:038][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_41 Validating asset
+[2025.02.22-06.23.02:038][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_42 Validating asset
+[2025.02.22-06.23.02:038][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_43 Validating asset
+[2025.02.22-06.23.02:038][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_44 Validating asset
+[2025.02.22-06.23.02:038][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_45 Validating asset
+[2025.02.22-06.23.02:038][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_46 Validating asset
+[2025.02.22-06.23.02:038][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_47 Validating asset
+[2025.02.22-06.23.02:038][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_48 Validating asset
+[2025.02.22-06.23.02:038][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_49 Validating asset
+[2025.02.22-06.23.02:038][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_50 Validating asset
+[2025.02.22-06.23.02:038][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_51 Validating asset
+[2025.02.22-06.23.02:038][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_52 Validating asset
+[2025.02.22-06.23.02:039][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_53 Validating asset
+[2025.02.22-06.23.02:039][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_54 Validating asset
+[2025.02.22-06.23.02:039][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_55 Validating asset
+[2025.02.22-06.23.02:039][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_56 Validating asset
+[2025.02.22-06.23.02:039][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_57 Validating asset
+[2025.02.22-06.23.02:039][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_58 Validating asset
+[2025.02.22-06.23.02:039][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_59 Validating asset
+[2025.02.22-06.23.02:039][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_6 Validating asset
+[2025.02.22-06.23.02:039][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_60 Validating asset
+[2025.02.22-06.23.02:039][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_61 Validating asset
+[2025.02.22-06.23.02:039][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_62 Validating asset
+[2025.02.22-06.23.02:039][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_63 Validating asset
+[2025.02.22-06.23.02:039][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_64 Validating asset
+[2025.02.22-06.23.02:039][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_65 Validating asset
+[2025.02.22-06.23.02:039][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_66 Validating asset
+[2025.02.22-06.23.02:039][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_67 Validating asset
+[2025.02.22-06.23.02:039][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_68 Validating asset
+[2025.02.22-06.23.02:040][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_69 Validating asset
+[2025.02.22-06.23.02:040][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_7 Validating asset
+[2025.02.22-06.23.02:040][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_70 Validating asset
+[2025.02.22-06.23.02:040][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_71 Validating asset
+[2025.02.22-06.23.02:040][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_72 Validating asset
+[2025.02.22-06.23.02:040][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_73 Validating asset
+[2025.02.22-06.23.02:040][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_74 Validating asset
+[2025.02.22-06.23.02:040][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_75 Validating asset
+[2025.02.22-06.23.02:040][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_76 Validating asset
+[2025.02.22-06.23.02:040][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_77 Validating asset
+[2025.02.22-06.23.02:040][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_78 Validating asset
+[2025.02.22-06.23.02:040][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_79 Validating asset
+[2025.02.22-06.23.02:040][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_8 Validating asset
+[2025.02.22-06.23.02:040][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_80 Validating asset
+[2025.02.22-06.23.02:040][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_81 Validating asset
+[2025.02.22-06.23.02:040][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_82 Validating asset
+[2025.02.22-06.23.02:041][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_83 Validating asset
+[2025.02.22-06.23.02:041][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_84 Validating asset
+[2025.02.22-06.23.02:041][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_85 Validating asset
+[2025.02.22-06.23.02:041][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_86 Validating asset
+[2025.02.22-06.23.02:041][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_87 Validating asset
+[2025.02.22-06.23.02:041][520]AssetCheck: /Game/assets/character/char_red_1_Sprite_9 Validating asset
+[2025.02.22-06.23.02:041][520]AssetCheck: /Game/assets/character/char_red_2 Validating asset
+[2025.02.22-06.23.02:041][520]AssetCheck: /Game/assets/character/idle/idle Validating asset
+[2025.02.22-06.23.02:041][520]AssetCheck: /Game/assets/character/run/run Validating asset
