@@ -3321,3 +3321,131 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.22-07.43.52:915][ 38]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.22-07.43.52:915][ 38]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.02.22-07.43.52:915][ 38]AssetCheck: /Game/bluprints/hero/ABP_HERO Validating asset
+[2025.02.22-07.45.47:464][795]LogEditorTransaction: Undo Add Node
+[2025.02.22-07.45.48:681][835]LogEditorTransaction: Undo Split Struct Pin
+[2025.02.22-07.45.49:131][851]LogEditorTransaction: Undo Move Node
+[2025.02.22-07.45.49:506][869]LogEditorTransaction: Undo Add Node
+[2025.02.22-07.45.49:889][888]LogEditorTransaction: Undo Add Node
+[2025.02.22-07.46.54:347][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.02.22-07.46.54:936][107]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-07.46.54:998][107]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/ABP_HERO] ([2] browsable assets)...
+[2025.02.22-07.46.54:998][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/ABP_HERO]
+[2025.02.22-07.46.54:998][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/ABP_HERO" FILE="G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset" SILENT=true
+[2025.02.22-07.46.55:185][107]LogSavePackage: Moving output files for package: /Game/bluprints/hero/ABP_HERO
+[2025.02.22-07.46.55:186][107]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/ABP_HERO1E55A75E4FFB40662FC325A0DEBD4564.tmp' to 'G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset'
+[2025.02.22-07.46.55:198][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 261.814 ms (total: 5.89 sec)
+[2025.02.22-07.46.55:248][107]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-07.46.55:248][107]LogContentValidation: Enabled validators:
+[2025.02.22-07.46.55:248][107]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-07.46.55:248][107]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-07.46.55:248][107]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-07.46.55:248][107]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-07.46.55:248][107]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-07.46.55:248][107]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-07.46.55:248][107]AssetCheck: /Game/bluprints/hero/ABP_HERO Validating asset
+[2025.02.22-07.47.09:907][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.02.22-07.47.10:688][843]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-07.47.10:747][843]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/ABP_HERO] ([2] browsable assets)...
+[2025.02.22-07.47.10:748][843]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/ABP_HERO]
+[2025.02.22-07.47.10:748][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/ABP_HERO" FILE="G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset" SILENT=true
+[2025.02.22-07.47.10:933][843]LogSavePackage: Moving output files for package: /Game/bluprints/hero/ABP_HERO
+[2025.02.22-07.47.10:934][843]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/ABP_HERO1C93A43A4EF4AF9323FB65B9E2BA3BC4.tmp' to 'G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset'
+[2025.02.22-07.47.10:945][843]LogFileHelpers: InternalPromptForCheckoutAndSave took 257.881 ms (total: 6.15 sec)
+[2025.02.22-07.47.10:998][843]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-07.47.10:998][843]LogContentValidation: Enabled validators:
+[2025.02.22-07.47.10:998][843]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-07.47.10:998][843]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-07.47.10:998][843]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-07.47.10:998][843]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-07.47.10:998][843]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-07.47.10:998][843]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-07.47.10:998][843]AssetCheck: /Game/bluprints/hero/ABP_HERO Validating asset
+[2025.02.22-07.48.23:105][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.02.22-07.48.23:742][150]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-07.48.23:798][150]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/ABP_HERO] ([2] browsable assets)...
+[2025.02.22-07.48.23:798][150]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/ABP_HERO]
+[2025.02.22-07.48.23:798][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/ABP_HERO" FILE="G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset" SILENT=true
+[2025.02.22-07.48.23:988][150]LogSavePackage: Moving output files for package: /Game/bluprints/hero/ABP_HERO
+[2025.02.22-07.48.23:989][150]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/ABP_HERO6BFCC50D499328B38BC6289A78EE944E.tmp' to 'G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset'
+[2025.02.22-07.48.23:999][150]LogFileHelpers: InternalPromptForCheckoutAndSave took 255.708 ms (total: 6.41 sec)
+[2025.02.22-07.48.24:064][150]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-07.48.24:064][150]LogContentValidation: Enabled validators:
+[2025.02.22-07.48.24:064][150]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-07.48.24:064][150]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-07.48.24:064][150]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-07.48.24:064][150]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-07.48.24:064][150]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-07.48.24:064][150]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-07.48.24:064][150]AssetCheck: /Game/bluprints/hero/ABP_HERO Validating asset
+[2025.02.22-07.48.29:689][575]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.22-07.48.29:710][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.22-07.48.29:734][575]LogPlayLevel: Display: Creating online subsystem for client :Context_16
+[2025.02.22-07.48.29:736][575]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.02.22-07.48.29:758][576]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2025.02.22-07.48.29:760][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001725s)
+[2025.02.22-07.48.29:760][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.001772s)
+[2025.02.22-07.48.29:781][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.02.22-07.48.29:783][576]LogChaosDD: Creating Chaos Debug Draw Scene for world level1
+[2025.02.22-07.48.29:785][576]LogPlayLevel: PIE: World Init took: (0.001802s)
+[2025.02.22-07.48.29:786][576]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.02.22-07.48.29:786][576]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.22-07.48.29:786][576]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.22-07.48.29:786][576]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.22-07.48.29:786][576]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.22-07.48.29:786][576]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.22-07.48.29:786][576]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.22-07.48.29:786][576]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.22-07.48.29:786][576]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.22-07.48.29:786][576]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.22-07.48.29:786][576]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.22-07.48.29:786][576]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.22-07.48.29:788][576]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.22-07.48.29:932][576]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2025.02.22-07.48.29:932][576]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.22-07.48.29:932][576]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.22-07.48.29:932][576]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.22-07.48.29:934][576]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.02.22-07.48.29:934][576]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.02.22-07.48.29:936][576]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.02.22-07.48.29:936][576]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.02.22-07.48.29:936][576]LogInit: FAudioDevice initialized with ID 12.
+[2025.02.22-07.48.29:936][576]LogAudio: Display: Audio Device (ID: 12) registered with world 'level1'.
+[2025.02.22-07.48.29:936][576]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.02.22-07.48.29:939][576]LogLoad: Game class is 'GM_BASE_C'
+[2025.02.22-07.48.29:940][576]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2025.02.22-09.48.29
+[2025.02.22-07.48.29:940][576]LogWorld: Bringing up level for play took: 0.000695
+[2025.02.22-07.48.29:943][576]PIE: Server logged in
+[2025.02.22-07.48.29:944][576]PIE: Play in editor total start time 0,233 seconds.
+[2025.02.22-07.48.40:715][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.22-07.48.40:715][840]LogWorld: BeginTearingDown for /Game/UEDPIE_0_level1
+[2025.02.22-07.48.40:715][840]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2025.02.22-07.48.40:715][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.22-07.48.40:719][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.22-07.48.40:727][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.22-07.48.40:747][840]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.22-07.48.40:747][840]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.02.22-07.48.40:747][840]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.02.22-07.48.40:750][840]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.02.22-07.48.40:755][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.22-07.48.40:758][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.02.22-07.48.40:838][841]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.02.22-07.50.27:668][596]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5102.085449
+[2025.02.22-07.50.27:843][608]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.22-07.50.27:843][608]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5102.248535, Update Interval: 332.489380
+[2025.02.22-07.52.06:334][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.02.22-07.52.07:153][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-07.52.07:213][916]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/BP_HERO] ([2] browsable assets)...
+[2025.02.22-07.52.07:213][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/BP_HERO]
+[2025.02.22-07.52.07:213][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/BP_HERO" FILE="G:/cursach/saper_3/MyProject/Content/bluprints/hero/BP_HERO.uasset" SILENT=true
+[2025.02.22-07.52.07:292][916]LogSavePackage: Moving output files for package: /Game/bluprints/hero/BP_HERO
+[2025.02.22-07.52.07:293][916]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/BP_HERO0A5654BF4C08773E206D9BBD8A96F15E.tmp' to 'G:/cursach/saper_3/MyProject/Content/bluprints/hero/BP_HERO.uasset'
+[2025.02.22-07.52.07:304][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.716 ms (total: 6.56 sec)
+[2025.02.22-07.52.07:365][916]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-07.52.07:365][916]LogContentValidation: Enabled validators:
+[2025.02.22-07.52.07:365][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-07.52.07:365][916]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-07.52.07:365][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-07.52.07:365][916]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-07.52.07:365][916]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-07.52.07:365][916]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-07.52.07:365][916]AssetCheck: /Game/bluprints/hero/BP_HERO Validating asset
