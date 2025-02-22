@@ -4983,3 +4983,79 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.22-09.08.24:568][354]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.22-09.08.24:568][354]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.02.22-09.08.24:568][354]AssetCheck: /Game/assets/fantasycaves/mainlev_build_TileSet Validating asset
+[2025.02.22-09.11.17:094][778]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.11.17:132][779]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.11.17:172][780]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.11.17:210][781]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.11.17:247][782]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.11.17:285][783]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.11.17:323][784]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.11.17:361][785]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.11.17:398][786]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.11.17:435][787]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.11.17:472][788]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.11.17:509][789]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.12.21:069][ 54]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10015.521484
+[2025.02.22-09.12.21:335][ 61]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.22-09.12.21:335][ 61]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10015.750977, Update Interval: 345.114899
+[2025.02.22-09.14.48:507][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.02.22-09.14.48:509][341]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/level1' took 0.024
+[2025.02.22-09.14.48:509][341]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/fantasycaves/mainlev_build_TileSet] ([1] browsable assets)...
+[2025.02.22-09.14.48:511][341]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/assets/fantasycaves/mainlev_build_TileSet.mainlev_build_TileSet]
+[2025.02.22-09.14.48:511][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/mainlev_build_TileSet]
+[2025.02.22-09.14.48:901][341]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/mainlev_build_TileSet_Auto9
+[2025.02.22-09.14.48:901][341]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/mainlev_build_TileSet_Auto929A0055348B35742D1E5028194B61A3E.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/mainlev_build_TileSet_Auto9.uasset'
+[2025.02.22-09.14.48:902][341]LogFileHelpers: Auto-saving content packages took 0.393
+[2025.02.22-09.16.44:127][566]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.16.44:167][567]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.16.44:211][568]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.16.44:251][569]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.16.44:288][570]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.16.44:325][571]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.16.44:364][572]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.16.44:402][573]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.16.44:440][574]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.16.44:480][575]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.16.44:519][576]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.16.44:557][577]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.16.44:594][578]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.16.44:633][579]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.16.44:674][580]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.16.44:710][581]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.16.44:751][582]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.16.44:788][583]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.16.44:828][584]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.18.44:434][ 63]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10398.927734
+[2025.02.22-09.18.44:666][ 69]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.22-09.18.44:666][ 69]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10399.118164, Update Interval: 335.869629
+[2025.02.22-09.22.27:516][853]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.22.27:558][854]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.22.27:600][855]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.22.27:644][856]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.22.27:683][857]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.22.27:728][858]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.22.27:767][859]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.22.27:808][860]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.22.27:849][861]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.22.27:893][862]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.22.27:934][863]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.24.51:187][550]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10765.692383
+[2025.02.22-09.24.51:471][557]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.22-09.24.51:472][557]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10765.935547, Update Interval: 356.253540
+[2025.02.22-09.25.13:383][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-09.25.13:446][955]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/fantasycaves/mainlev_build_TileSet] ([1] browsable assets)...
+[2025.02.22-09.25.13:448][955]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/assets/fantasycaves/mainlev_build_TileSet.mainlev_build_TileSet]
+[2025.02.22-09.25.13:448][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/mainlev_build_TileSet]
+[2025.02.22-09.25.13:448][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/mainlev_build_TileSet" FILE="G:/cursach/saper_3/MyProject/Content/assets/fantasycaves/mainlev_build_TileSet.uasset" SILENT=true
+[2025.02.22-09.25.13:803][955]LogSavePackage: Moving output files for package: /Game/assets/fantasycaves/mainlev_build_TileSet
+[2025.02.22-09.25.13:804][955]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/mainlev_build_TileSet8A92EDD5464E1CC1CB5EF7936BFF3EC1.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/fantasycaves/mainlev_build_TileSet.uasset'
+[2025.02.22-09.25.13:819][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 435.816 ms (total: 10.1 sec)
+[2025.02.22-09.25.13:879][955]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-09.25.13:879][955]LogContentValidation: Enabled validators:
+[2025.02.22-09.25.13:879][955]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-09.25.13:879][955]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-09.25.13:879][955]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-09.25.13:879][955]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-09.25.13:879][955]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-09.25.13:879][955]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-09.25.13:879][955]AssetCheck: /Game/assets/fantasycaves/mainlev_build_TileSet Validating asset
