@@ -2418,3 +2418,9 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.22-06.23.02:041][520]AssetCheck: /Game/assets/character/char_red_2 Validating asset
 [2025.02.22-06.23.02:041][520]AssetCheck: /Game/assets/character/idle/idle Validating asset
 [2025.02.22-06.23.02:041][520]AssetCheck: /Game/assets/character/run/run Validating asset
+[2025.02.22-06.23.40:586][ 44]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.22-06.23.40:593][ 44]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.22-06.23.40:603][ 45]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.22-06.23.46:004][692]LogContentBrowser: Attempting asset rename: NewFolder -> bluprint
+[2025.02.22-06.23.46:009][692]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.22-06.23.53:784][562]LogContentBrowser: Attempting asset rename: bluprint -> bluprints
