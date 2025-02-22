@@ -5059,3 +5059,168 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.22-09.25.13:879][955]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.22-09.25.13:879][955]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.02.22-09.25.13:879][955]AssetCheck: /Game/assets/fantasycaves/mainlev_build_TileSet Validating asset
+[2025.02.22-09.26.02:875][819]Cmd: TRANSACTION UNDO
+[2025.02.22-09.26.02:875][819]LogEditorTransaction: Undo Add Box Shape
+[2025.02.22-09.26.37:892][614]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.26.37:935][615]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.26.37:976][616]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.26.38:017][617]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.26.38:062][618]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.26.38:101][619]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.26.38:142][620]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.26.38:183][621]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.26.38:225][622]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.26.38:265][623]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.26.38:307][624]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.26.38:347][625]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.26.38:388][626]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.26.38:429][627]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.26.38:475][628]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.26.38:515][629]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.27.20:479][533]LogDerivedDataCache: C:/Users/коте/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.22-09.31.15:236][833]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.31.15:282][834]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.31.15:324][835]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.31.15:366][836]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.31.15:412][837]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.31.15:454][838]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.31.15:497][839]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.31.15:537][840]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.31.15:580][841]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.31.15:621][842]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.31.15:665][843]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.31.15:708][844]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.31.15:752][845]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.31.33:532][210]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11168.085938
+[2025.02.22-09.31.33:855][217]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.22-09.31.33:855][217]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11168.366211, Update Interval: 346.197083
+[2025.02.22-09.32.56:403][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.02.22-09.32.56:405][739]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/level1' took 0.026
+[2025.02.22-09.32.56:405][739]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/BP_HERO] ([2] browsable assets)...
+[2025.02.22-09.32.56:405][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/BP_HERO]
+[2025.02.22-09.32.56:405][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/BP_HERO" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/bluprints/hero/BP_HERO_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-09.32.56:524][739]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluprints/hero/BP_HERO_Auto0
+[2025.02.22-09.32.56:524][739]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/BP_HERO_Auto0349150CF459254C96F987A8808F27E1C.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/bluprints/hero/BP_HERO_Auto0.uasset'
+[2025.02.22-09.32.56:525][739]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/fantasycaves/background1] ([1] browsable assets)...
+[2025.02.22-09.32.56:525][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/background1]
+[2025.02.22-09.32.56:525][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/background1" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background1_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-09.32.56:548][739]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/background1_Auto0
+[2025.02.22-09.32.56:548][739]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/background1_Auto015BEE11348CCB326517FAF846AA65B67.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background1_Auto0.uasset'
+[2025.02.22-09.32.56:550][739]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/fantasycaves/background2] ([1] browsable assets)...
+[2025.02.22-09.32.56:550][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/background2]
+[2025.02.22-09.32.56:550][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/background2" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background2_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-09.32.56:571][739]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/background2_Auto0
+[2025.02.22-09.32.56:571][739]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/background2_Auto0B229C8D34AF24AB2BBC2CF9956F6DD0E.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background2_Auto0.uasset'
+[2025.02.22-09.32.56:573][739]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/fantasycaves/background3] ([1] browsable assets)...
+[2025.02.22-09.32.56:573][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/background3]
+[2025.02.22-09.32.56:573][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/background3" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background3_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-09.32.56:596][739]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/background3_Auto0
+[2025.02.22-09.32.56:596][739]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/background3_Auto098B420F54EEE80C7DE6A4693946924D4.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background3_Auto0.uasset'
+[2025.02.22-09.32.56:597][739]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/fantasycaves/background4a] ([1] browsable assets)...
+[2025.02.22-09.32.56:597][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/background4a]
+[2025.02.22-09.32.56:597][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/background4a" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background4a_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-09.32.56:611][739]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/background4a_Auto0
+[2025.02.22-09.32.56:611][739]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/background4a_Auto008A47EAF4766DF688A801EADE96FB943.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background4a_Auto0.uasset'
+[2025.02.22-09.32.56:614][739]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/fantasycaves/background4b] ([1] browsable assets)...
+[2025.02.22-09.32.56:614][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/background4b]
+[2025.02.22-09.32.56:614][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/background4b" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background4b_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-09.32.56:629][739]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/background4b_Auto0
+[2025.02.22-09.32.56:629][739]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/background4b_Auto011EBB3CF4BCFBDC2BE9260B88949FE9B.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background4b_Auto0.uasset'
+[2025.02.22-09.32.56:630][739]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/fantasycaves/mainlev_build] ([1] browsable assets)...
+[2025.02.22-09.32.56:630][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/mainlev_build]
+[2025.02.22-09.32.56:630][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/mainlev_build" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/mainlev_build_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-09.32.56:656][739]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/mainlev_build_Auto0
+[2025.02.22-09.32.56:656][739]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/mainlev_build_Auto0CAF065DE43E84FF42F98E189E987526F.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/mainlev_build_Auto0.uasset'
+[2025.02.22-09.32.56:657][739]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/fantasycaves/props1] ([1] browsable assets)...
+[2025.02.22-09.32.56:657][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/props1]
+[2025.02.22-09.32.56:657][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/props1" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/props1_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-09.32.56:687][739]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/props1_Auto0
+[2025.02.22-09.32.56:687][739]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/props1_Auto0AF2D4D304A978D9F0DBA89916080DBBA.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/props1_Auto0.uasset'
+[2025.02.22-09.32.56:689][739]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/fantasycaves/props2] ([1] browsable assets)...
+[2025.02.22-09.32.56:689][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/props2]
+[2025.02.22-09.32.56:689][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/props2" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/props2_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-09.32.56:715][739]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/props2_Auto0
+[2025.02.22-09.32.56:715][739]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/props2_Auto06D5C36DB43B09E87D37C6A95B01E3815.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/props2_Auto0.uasset'
+[2025.02.22-09.32.56:717][739]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/fantasycaves/mainlev_build_TileSet] ([1] browsable assets)...
+[2025.02.22-09.32.56:718][739]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/assets/fantasycaves/mainlev_build_TileSet.mainlev_build_TileSet]
+[2025.02.22-09.32.56:718][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/mainlev_build_TileSet]
+[2025.02.22-09.32.57:058][739]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/mainlev_build_TileSet_Auto0
+[2025.02.22-09.32.57:058][739]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/mainlev_build_TileSet_Auto0388243444C99BFA9257043A78C480A76.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/mainlev_build_TileSet_Auto0.uasset'
+[2025.02.22-09.32.57:059][739]LogFileHelpers: Auto-saving content packages took 0.654
+[2025.02.22-09.33.09:013][ 96]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.22-09.33.09:038][ 96]LogPlayLevel: [PlayLevel] Compiling BP_HERO before play...
+[2025.02.22-09.33.09:102][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.02.22-09.33.09:103][ 96]LogPlayLevel: PlayLevel: Blueprint regeneration took 67 ms (1 blueprints)
+[2025.02.22-09.33.09:104][ 96]LogPlayLevel: Display: Creating online subsystem for client :Context_32
+[2025.02.22-09.33.09:107][ 96]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.02.22-09.33.09:133][ 97]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_level1
+[2025.02.22-09.33.09:134][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001676s)
+[2025.02.22-09.33.09:134][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1.level1 to /Game/UEDPIE_0_level1.level1 (0.001719s)
+[2025.02.22-09.33.09:155][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.02.22-09.33.09:158][ 97]LogChaosDD: Creating Chaos Debug Draw Scene for world level1
+[2025.02.22-09.33.09:160][ 97]LogPlayLevel: PIE: World Init took: (0.001949s)
+[2025.02.22-09.33.09:161][ 97]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2025.02.22-09.33.09:161][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.22-09.33.09:161][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.22-09.33.09:161][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.22-09.33.09:161][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.22-09.33.09:161][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.22-09.33.09:161][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.22-09.33.09:161][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.22-09.33.09:161][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.22-09.33.09:161][ 97]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.22-09.33.09:161][ 97]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.22-09.33.09:161][ 97]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.22-09.33.09:164][ 97]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.22-09.33.09:194][ 97]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2025.02.22-09.33.09:195][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.22-09.33.09:195][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.22-09.33.09:195][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.22-09.33.09:195][ 97]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2025.02.22-09.33.09:195][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2025.02.22-09.33.09:198][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2025.02.22-09.33.09:198][ 97]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2025.02.22-09.33.09:198][ 97]LogInit: FAudioDevice initialized with ID 26.
+[2025.02.22-09.33.09:198][ 97]LogAudio: Display: Audio Device (ID: 26) registered with world 'level1'.
+[2025.02.22-09.33.09:198][ 97]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2025.02.22-09.33.09:201][ 97]LogLoad: Game class is 'GM_BASE_C'
+[2025.02.22-09.33.09:203][ 97]LogWorld: Bringing World /Game/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2025.02.22-11.33.09
+[2025.02.22-09.33.09:203][ 97]LogWorld: Bringing up level for play took: 0.000678
+[2025.02.22-09.33.09:206][ 97]PIE: Server logged in
+[2025.02.22-09.33.09:207][ 97]PIE: Play in editor total start time 0,171 seconds.
+[2025.02.22-09.34.00:314][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.22-09.34.00:314][212]LogWorld: BeginTearingDown for /Game/UEDPIE_0_level1
+[2025.02.22-09.34.00:314][212]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2025.02.22-09.34.00:314][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.22-09.34.00:319][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.22-09.34.00:327][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.22-09.34.00:347][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.22-09.34.00:348][212]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2025.02.22-09.34.00:348][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.02.22-09.34.00:350][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.02.22-09.34.00:359][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.02.22-09.34.00:443][213]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2025.02.22-09.34.00:536][218]Cmd: SELECT NONE
+[2025.02.22-09.38.01:258][525]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11555.815430
+[2025.02.22-09.38.01:589][531]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.22-09.38.01:589][531]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11556.102539, Update Interval: 353.331085
+[2025.02.22-09.44.45:812][915]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-09.44.45:872][915]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/fantasycaves/mainlev_build_TileSet] ([1] browsable assets)...
+[2025.02.22-09.44.45:874][915]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/assets/fantasycaves/mainlev_build_TileSet.mainlev_build_TileSet]
+[2025.02.22-09.44.45:874][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/mainlev_build_TileSet]
+[2025.02.22-09.44.45:874][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/mainlev_build_TileSet" FILE="G:/cursach/saper_3/MyProject/Content/assets/fantasycaves/mainlev_build_TileSet.uasset" SILENT=true
+[2025.02.22-09.44.46:279][915]LogSavePackage: Moving output files for package: /Game/assets/fantasycaves/mainlev_build_TileSet
+[2025.02.22-09.44.46:280][915]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/mainlev_build_TileSetBFED8CB64C55DCBDCE067591A223F869.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/fantasycaves/mainlev_build_TileSet.uasset'
+[2025.02.22-09.44.46:294][915]LogFileHelpers: InternalPromptForCheckoutAndSave took 482.084 ms (total: 10.6 sec)
+[2025.02.22-09.44.46:356][915]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-09.44.46:356][915]LogContentValidation: Enabled validators:
+[2025.02.22-09.44.46:356][915]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-09.44.46:356][915]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-09.44.46:356][915]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-09.44.46:356][915]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-09.44.46:356][915]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-09.44.46:356][915]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-09.44.46:356][915]AssetCheck: /Game/assets/fantasycaves/mainlev_build_TileSet Validating asset
+[2025.02.22-09.44.46:464][916]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11961.007812
+[2025.02.22-09.44.46:729][922]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.22-09.44.46:729][922]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11961.227539, Update Interval: 355.125580
