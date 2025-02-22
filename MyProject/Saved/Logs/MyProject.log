@@ -2671,3 +2671,31 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.22-07.13.56:160][316]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.22-07.13.56:160][316]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.02.22-07.13.56:160][316]AssetCheck: /Game/level1 Validating asset
+[2025.02.22-07.18.08:201][210]LogStreaming: Display: FlushAsyncLoading(540): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.22-07.18.08:206][210]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave shagi-23...
+[2025.02.22-07.18.08:206][210]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave byistraya-hodba-po-betonnoy-poverhnosti-26128...
+[2025.02.22-07.18.08:206][210]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave tolko-shagi...
+[2025.02.22-07.18.08:229][210]LogAudioDerivedData: Display: byistraya-hodba-po-betonnoy-poverhnosti-26128 compressed to 9.00% (from 664KB to 59KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.02.22-07.18.08:229][210]LogAudio: Display: Chunk stats for (SoundWave /Game/assets/audio/byistraya-hodba-po-betonnoy-poverhnosti-26128.byistraya-hodba-po-betonnoy-poverhnosti-26128: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=61181 bytes, ChunkN=0)
+[2025.02.22-07.18.08:230][210]LogAudioDerivedData: Display: shagi-23 compressed to 15.52% (from 645KB to 100KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.02.22-07.18.08:231][210]LogAudio: Display: Chunk stats for (SoundWave /Game/assets/audio/shagi-23.shagi-23: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=102513 bytes, ChunkN=0)
+[2025.02.22-07.18.08:289][210]LogAudioDerivedData: Display: tolko-shagi compressed to 17.75% (from 2 310KB to 410KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.02.22-07.18.08:290][210]LogAudio: Display: Chunk stats for (SoundWave /Game/assets/audio/tolko-shagi.tolko-shagi: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=261183 bytes, ChunkN=158735)
+[2025.02.22-07.18.08:350][210]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/assets/audio/foodstep.foodstep
+[2025.02.22-07.18.14:181][485]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.02.22-07.18.25:288][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-07.18.25:342][307]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/audio/foodstep] ([1] browsable assets)...
+[2025.02.22-07.18.25:342][307]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/audio/foodstep]
+[2025.02.22-07.18.25:342][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/audio/foodstep" FILE="G:/cursach/saper_3/MyProject/Content/assets/audio/foodstep.uasset" SILENT=true
+[2025.02.22-07.18.25:362][307]LogSavePackage: Moving output files for package: /Game/assets/audio/foodstep
+[2025.02.22-07.18.25:363][307]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/foodstep15D0E3184EA0421241AD6E966087C3B0.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/audio/foodstep.uasset'
+[2025.02.22-07.18.25:373][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.409 ms (total: 2.87 sec)
+[2025.02.22-07.18.25:424][307]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-07.18.25:424][307]LogContentValidation: Enabled validators:
+[2025.02.22-07.18.25:424][307]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-07.18.25:424][307]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-07.18.25:424][307]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-07.18.25:424][307]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-07.18.25:424][307]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-07.18.25:424][307]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-07.18.25:424][307]AssetCheck: /Game/assets/audio/foodstep Validating asset
