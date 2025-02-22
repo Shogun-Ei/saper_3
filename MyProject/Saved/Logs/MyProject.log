@@ -3194,3 +3194,130 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.22-07.37.35:433][369]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.22-07.37.35:433][369]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.02.22-07.37.35:433][369]AssetCheck: /Game/bluprints/hero/AS_HERO Validating asset
+[2025.02.22-07.38.09:992][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.02.22-07.38.09:994][741]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/level1' took 0.025
+[2025.02.22-07.38.09:994][741]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/AnimSequences/jump] ([1] browsable assets)...
+[2025.02.22-07.38.09:994][741]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/AnimSequences/jump]
+[2025.02.22-07.38.09:994][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/AnimSequences/jump" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/bluprints/hero/AnimSequences/jump_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-07.38.10:004][741]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluprints/hero/AnimSequences/jump_Auto5
+[2025.02.22-07.38.10:004][741]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/jump_Auto51EADC4134BAEE7566A973CAE8957ABCF.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/bluprints/hero/AnimSequences/jump_Auto5.uasset'
+[2025.02.22-07.38.10:006][741]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/AnimSequences/ghangetofall] ([1] browsable assets)...
+[2025.02.22-07.38.10:006][741]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/AnimSequences/ghangetofall]
+[2025.02.22-07.38.10:014][741]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluprints/hero/AnimSequences/ghangetofall_Auto5
+[2025.02.22-07.38.10:014][741]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/ghangetofall_Auto5145D33DE4C5160503543B6AFB347FB7A.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/bluprints/hero/AnimSequences/ghangetofall_Auto5.uasset'
+[2025.02.22-07.38.10:016][741]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/AnimSequences/fall] ([1] browsable assets)...
+[2025.02.22-07.38.10:016][741]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/AnimSequences/fall]
+[2025.02.22-07.38.10:016][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/AnimSequences/fall" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/bluprints/hero/AnimSequences/fall_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-07.38.10:025][741]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluprints/hero/AnimSequences/fall_Auto5
+[2025.02.22-07.38.10:025][741]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/fall_Auto57C19095042E03E1488C5278B674D236D.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/bluprints/hero/AnimSequences/fall_Auto5.uasset'
+[2025.02.22-07.38.10:026][741]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/AnimSequences/land] ([1] browsable assets)...
+[2025.02.22-07.38.10:026][741]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/AnimSequences/land]
+[2025.02.22-07.38.10:026][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/AnimSequences/land" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/bluprints/hero/AnimSequences/land_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-07.38.10:036][741]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluprints/hero/AnimSequences/land_Auto5
+[2025.02.22-07.38.10:036][741]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/land_Auto5F7B2BF3E482363231014C3AA446F2B8F.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/bluprints/hero/AnimSequences/land_Auto5.uasset'
+[2025.02.22-07.38.10:037][741]LogFileHelpers: Auto-saving content packages took 0.043
+[2025.02.22-07.39.08:369][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.02.22-07.39.09:259][749]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-07.39.09:319][749]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/ABP_HERO] ([2] browsable assets)...
+[2025.02.22-07.39.09:319][749]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/ABP_HERO]
+[2025.02.22-07.39.09:319][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/ABP_HERO" FILE="G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset" SILENT=true
+[2025.02.22-07.39.09:448][749]LogSavePackage: Moving output files for package: /Game/bluprints/hero/ABP_HERO
+[2025.02.22-07.39.09:449][749]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/ABP_HEROD273169843E74019F52C4F973C7561E6.tmp' to 'G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset'
+[2025.02.22-07.39.09:461][749]LogFileHelpers: InternalPromptForCheckoutAndSave took 201.709 ms (total: 4.53 sec)
+[2025.02.22-07.39.09:518][749]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-07.39.09:518][749]LogContentValidation: Enabled validators:
+[2025.02.22-07.39.09:518][749]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-07.39.09:518][749]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-07.39.09:518][749]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-07.39.09:518][749]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-07.39.09:518][749]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-07.39.09:518][749]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-07.39.09:518][749]AssetCheck: /Game/bluprints/hero/ABP_HERO Validating asset
+[2025.02.22-07.39.31:548][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.02.22-07.39.32:361][693]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-07.39.32:418][693]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/ABP_HERO] ([2] browsable assets)...
+[2025.02.22-07.39.32:418][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/ABP_HERO]
+[2025.02.22-07.39.32:418][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/ABP_HERO" FILE="G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset" SILENT=true
+[2025.02.22-07.39.32:543][693]LogSavePackage: Moving output files for package: /Game/bluprints/hero/ABP_HERO
+[2025.02.22-07.39.32:544][693]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/ABP_HEROBFDE0DAA44C6EDEE34F0F4972AF7C9D2.tmp' to 'G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset'
+[2025.02.22-07.39.32:555][693]LogFileHelpers: InternalPromptForCheckoutAndSave took 194.145 ms (total: 4.73 sec)
+[2025.02.22-07.39.32:616][693]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-07.39.32:616][693]LogContentValidation: Enabled validators:
+[2025.02.22-07.39.32:616][693]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-07.39.32:616][693]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-07.39.32:616][693]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-07.39.32:616][693]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-07.39.32:616][693]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-07.39.32:616][693]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-07.39.32:616][693]AssetCheck: /Game/bluprints/hero/ABP_HERO Validating asset
+[2025.02.22-07.40.26:417][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.02.22-07.40.27:062][547]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-07.40.27:118][547]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/ABP_HERO] ([2] browsable assets)...
+[2025.02.22-07.40.27:118][547]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/ABP_HERO]
+[2025.02.22-07.40.27:118][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/ABP_HERO" FILE="G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset" SILENT=true
+[2025.02.22-07.40.27:257][547]LogSavePackage: Moving output files for package: /Game/bluprints/hero/ABP_HERO
+[2025.02.22-07.40.27:259][547]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/ABP_HERO54F637F14E273C243B83ED87BAF2846D.tmp' to 'G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset'
+[2025.02.22-07.40.27:269][547]LogFileHelpers: InternalPromptForCheckoutAndSave took 207.177 ms (total: 4.94 sec)
+[2025.02.22-07.40.27:335][547]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-07.40.27:335][547]LogContentValidation: Enabled validators:
+[2025.02.22-07.40.27:335][547]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-07.40.27:335][547]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-07.40.27:335][547]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-07.40.27:335][547]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-07.40.27:335][547]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-07.40.27:335][547]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-07.40.27:335][547]AssetCheck: /Game/bluprints/hero/ABP_HERO Validating asset
+[2025.02.22-07.41.50:582][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.02.22-07.41.51:186][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-07.41.51:250][999]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/ABP_HERO] ([2] browsable assets)...
+[2025.02.22-07.41.51:250][999]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/ABP_HERO]
+[2025.02.22-07.41.51:250][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/ABP_HERO" FILE="G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset" SILENT=true
+[2025.02.22-07.41.51:393][999]LogSavePackage: Moving output files for package: /Game/bluprints/hero/ABP_HERO
+[2025.02.22-07.41.51:395][999]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/ABP_HERO8169ED35403BB68AF64B27A9B671857B.tmp' to 'G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset'
+[2025.02.22-07.41.51:404][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 218.395 ms (total: 5.15 sec)
+[2025.02.22-07.41.51:466][999]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-07.41.51:466][999]LogContentValidation: Enabled validators:
+[2025.02.22-07.41.51:466][999]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-07.41.51:466][999]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-07.41.51:466][999]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-07.41.51:466][999]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-07.41.51:466][999]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-07.41.51:466][999]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-07.41.51:466][999]AssetCheck: /Game/bluprints/hero/ABP_HERO Validating asset
+[2025.02.22-07.42.56:199][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.02.22-07.42.56:967][200]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-07.42.57:034][200]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/ABP_HERO] ([2] browsable assets)...
+[2025.02.22-07.42.57:034][200]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/ABP_HERO]
+[2025.02.22-07.42.57:034][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/ABP_HERO" FILE="G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset" SILENT=true
+[2025.02.22-07.42.57:191][200]LogSavePackage: Moving output files for package: /Game/bluprints/hero/ABP_HERO
+[2025.02.22-07.42.57:192][200]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/ABP_HERO3FEBBD974159A26AA12AAA836FB1999A.tmp' to 'G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset'
+[2025.02.22-07.42.57:203][200]LogFileHelpers: InternalPromptForCheckoutAndSave took 235.851 ms (total: 5.39 sec)
+[2025.02.22-07.42.57:265][200]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-07.42.57:265][200]LogContentValidation: Enabled validators:
+[2025.02.22-07.42.57:265][200]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-07.42.57:265][200]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-07.42.57:265][200]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-07.42.57:265][200]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-07.42.57:265][200]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-07.42.57:265][200]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-07.42.57:265][200]AssetCheck: /Game/bluprints/hero/ABP_HERO Validating asset
+[2025.02.22-07.43.38:502][321]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4692.925781
+[2025.02.22-07.43.38:730][333]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.22-07.43.38:730][333]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4693.134766, Update Interval: 358.634003
+[2025.02.22-07.43.51:763][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.02.22-07.43.52:618][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-07.43.52:683][ 38]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/ABP_HERO] ([2] browsable assets)...
+[2025.02.22-07.43.52:684][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/ABP_HERO]
+[2025.02.22-07.43.52:684][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/ABP_HERO" FILE="G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset" SILENT=true
+[2025.02.22-07.43.52:847][ 38]LogSavePackage: Moving output files for package: /Game/bluprints/hero/ABP_HERO
+[2025.02.22-07.43.52:848][ 38]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/ABP_HEROCECE3FB042E0FC7D09A9B4BA1187EC61.tmp' to 'G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset'
+[2025.02.22-07.43.52:859][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave took 240.902 ms (total: 5.63 sec)
+[2025.02.22-07.43.52:915][ 38]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-07.43.52:915][ 38]LogContentValidation: Enabled validators:
+[2025.02.22-07.43.52:915][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-07.43.52:915][ 38]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-07.43.52:915][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-07.43.52:915][ 38]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-07.43.52:915][ 38]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-07.43.52:915][ 38]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-07.43.52:915][ 38]AssetCheck: /Game/bluprints/hero/ABP_HERO Validating asset
