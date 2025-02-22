@@ -125,6 +125,10 @@
 				"G:/cursach/saper_3/MyProject/Content/bluprints/GM_BASE.uasset",
 				"G:/cursach/saper_3/MyProject/Content/assets/character/jump/jump.uasset",
 				"G:/cursach/saper_3/MyProject/Content/assets/character/jump/land.uasset",
+				"G:/cursach/saper_3/MyProject/Content/bluprints/hero/AnimSequences/jump.uasset",
+				"G:/cursach/saper_3/MyProject/Content/bluprints/hero/AnimSequences/ghangetofall.uasset",
+				"G:/cursach/saper_3/MyProject/Content/bluprints/hero/AnimSequences/fall.uasset",
+				"G:/cursach/saper_3/MyProject/Content/bluprints/hero/AnimSequences/land.uasset",
 				"D:/engine/course/saper_3/MyProject/Content/level1.umap"
 			]
 		}
