@@ -1553,3 +1553,41 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.22-06.27.03:961][160]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.22-06.27.03:961][160]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.02.22-06.27.03:962][160]AssetCheck: /Game/bluprints/hero/AS_HERO Validating asset
+[2025.02.22-06.27.20:478][420]LogDerivedDataCache: C:/Users/коте/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.22-06.27.29:992][987]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> run
+[2025.02.22-06.27.30:089][987]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-06.27.30:089][987]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/AnimSequences/run] ([1] browsable assets)...
+[2025.02.22-06.27.30:089][987]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/AnimSequences/run]
+[2025.02.22-06.27.30:089][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/AnimSequences/run" FILE="G:/cursach/saper_3/MyProject/Content/bluprints/hero/AnimSequences/run.uasset" SILENT=true
+[2025.02.22-06.27.30:097][987]LogSavePackage: Moving output files for package: /Game/bluprints/hero/AnimSequences/run
+[2025.02.22-06.27.30:097][987]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/run29DF33D245725821B0391AA93F7039EB.tmp' to 'G:/cursach/saper_3/MyProject/Content/bluprints/hero/AnimSequences/run.uasset'
+[2025.02.22-06.27.30:098][987]LogFileHelpers: InternalPromptForCheckoutAndSave took 9.846 ms (total: 192.833 ms)
+[2025.02.22-06.27.30:120][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.02.22-06.27.30:131][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.02.22-06.27.30:140][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.02.22-06.27.30:196][987]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-06.27.30:196][987]LogContentValidation: Enabled validators:
+[2025.02.22-06.27.30:196][987]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-06.27.30:196][987]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-06.27.30:196][987]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-06.27.30:196][987]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-06.27.30:196][987]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-06.27.30:196][987]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-06.27.30:196][987]AssetCheck: /Game/bluprints/hero/AnimSequences/run Validating asset
+[2025.02.22-06.27.34:488][404]LogStreaming: Display: FlushAsyncLoading(347): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.22-06.28.02:713][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-06.28.02:762][288]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/AS_HERO] ([1] browsable assets)...
+[2025.02.22-06.28.02:762][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/AS_HERO]
+[2025.02.22-06.28.02:762][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/AS_HERO" FILE="G:/cursach/saper_3/MyProject/Content/bluprints/hero/AS_HERO.uasset" SILENT=true
+[2025.02.22-06.28.02:771][288]LogSavePackage: Moving output files for package: /Game/bluprints/hero/AS_HERO
+[2025.02.22-06.28.02:772][288]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/AS_HEROFA3F6FBD483E97FD2BC80BAF5FE749B1.tmp' to 'G:/cursach/saper_3/MyProject/Content/bluprints/hero/AS_HERO.uasset'
+[2025.02.22-06.28.02:782][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.857 ms (total: 261.690 ms)
+[2025.02.22-06.28.02:845][288]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-06.28.02:845][288]LogContentValidation: Enabled validators:
+[2025.02.22-06.28.02:845][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-06.28.02:845][288]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-06.28.02:845][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-06.28.02:845][288]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-06.28.02:845][288]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-06.28.02:845][288]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-06.28.02:845][288]AssetCheck: /Game/bluprints/hero/AS_HERO Validating asset
