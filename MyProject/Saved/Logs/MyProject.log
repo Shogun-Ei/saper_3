@@ -2699,3 +2699,38 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.22-07.18.25:424][307]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.22-07.18.25:424][307]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.02.22-07.18.25:424][307]AssetCheck: /Game/assets/audio/foodstep Validating asset
+[2025.02.22-07.18.49:320][392]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3203.719238
+[2025.02.22-07.18.49:512][407]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.22-07.18.49:512][407]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3203.899658, Update Interval: 315.086517
+[2025.02.22-07.20.02:279][558]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-07.20.02:341][558]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/AS_HERO] ([1] browsable assets)...
+[2025.02.22-07.20.02:341][558]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/AS_HERO]
+[2025.02.22-07.20.02:341][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/AS_HERO" FILE="G:/cursach/saper_3/MyProject/Content/bluprints/hero/AS_HERO.uasset" SILENT=true
+[2025.02.22-07.20.02:349][558]LogSavePackage: Moving output files for package: /Game/bluprints/hero/AS_HERO
+[2025.02.22-07.20.02:351][558]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/AS_HEROB50DC1724608705FD1FE7083202539A4.tmp' to 'G:/cursach/saper_3/MyProject/Content/bluprints/hero/AS_HERO.uasset'
+[2025.02.22-07.20.02:362][558]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.775 ms (total: 2.95 sec)
+[2025.02.22-07.20.02:423][558]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-07.20.02:423][558]LogContentValidation: Enabled validators:
+[2025.02.22-07.20.02:423][558]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-07.20.02:423][558]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-07.20.02:423][558]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-07.20.02:424][558]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-07.20.02:424][558]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-07.20.02:424][558]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-07.20.02:424][558]AssetCheck: /Game/bluprints/hero/AS_HERO Validating asset
+[2025.02.22-07.20.05:211][744]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-07.20.05:274][744]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/AS_HERO] ([1] browsable assets)...
+[2025.02.22-07.20.05:274][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/AS_HERO]
+[2025.02.22-07.20.05:274][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/AS_HERO" FILE="G:/cursach/saper_3/MyProject/Content/bluprints/hero/AS_HERO.uasset" SILENT=true
+[2025.02.22-07.20.05:282][744]LogSavePackage: Moving output files for package: /Game/bluprints/hero/AS_HERO
+[2025.02.22-07.20.05:283][744]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/AS_HEROD472BABC4D260F3C30197690CA42E48F.tmp' to 'G:/cursach/saper_3/MyProject/Content/bluprints/hero/AS_HERO.uasset'
+[2025.02.22-07.20.05:293][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.673 ms (total: 3.03 sec)
+[2025.02.22-07.20.05:357][744]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-07.20.05:357][744]LogContentValidation: Enabled validators:
+[2025.02.22-07.20.05:357][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-07.20.05:357][744]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-07.20.05:357][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-07.20.05:357][744]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-07.20.05:357][744]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-07.20.05:357][744]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-07.20.05:357][744]AssetCheck: /Game/bluprints/hero/AS_HERO Validating asset
