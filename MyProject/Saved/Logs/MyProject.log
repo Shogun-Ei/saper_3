@@ -5224,3 +5224,79 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.22-09.44.46:464][916]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11961.007812
 [2025.02.22-09.44.46:729][922]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.02.22-09.44.46:729][922]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11961.227539, Update Interval: 355.125580
+[2025.02.22-09.49.47:788][199]Cmd: TRANSACTION UNDO
+[2025.02.22-09.49.47:788][199]LogEditorTransaction: Undo Modification in Viewport
+[2025.02.22-09.51.13:667][589]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12348.200195
+[2025.02.22-09.51.13:933][595]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.22-09.51.13:933][595]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12348.420898, Update Interval: 303.596313
+[2025.02.22-09.51.17:194][667]Cmd: TRANSACTION UNDO
+[2025.02.22-09.51.17:195][667]LogEditorTransaction: Undo Modification in Viewport
+[2025.02.22-09.53.00:961][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.02.22-09.53.00:963][606]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/level1' took 0.025
+[2025.02.22-09.53.00:963][606]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/BP_HERO] ([2] browsable assets)...
+[2025.02.22-09.53.00:963][606]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/BP_HERO]
+[2025.02.22-09.53.00:963][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/BP_HERO" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/bluprints/hero/BP_HERO_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-09.53.01:084][606]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluprints/hero/BP_HERO_Auto1
+[2025.02.22-09.53.01:084][606]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/BP_HERO_Auto1C5FEC07D4D74DA9141936B976CC74707.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/bluprints/hero/BP_HERO_Auto1.uasset'
+[2025.02.22-09.53.01:085][606]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/fantasycaves/background1] ([1] browsable assets)...
+[2025.02.22-09.53.01:085][606]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/background1]
+[2025.02.22-09.53.01:085][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/background1" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-09.53.01:107][606]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/background1_Auto1
+[2025.02.22-09.53.01:107][606]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/background1_Auto1426768F3404DFADAC4E9A99CD18C296D.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background1_Auto1.uasset'
+[2025.02.22-09.53.01:108][606]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/fantasycaves/background2] ([1] browsable assets)...
+[2025.02.22-09.53.01:108][606]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/background2]
+[2025.02.22-09.53.01:108][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/background2" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-09.53.01:129][606]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/background2_Auto1
+[2025.02.22-09.53.01:129][606]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/background2_Auto162FB23DE40F8E8AC5B5892A8080EA3A5.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background2_Auto1.uasset'
+[2025.02.22-09.53.01:131][606]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/fantasycaves/background3] ([1] browsable assets)...
+[2025.02.22-09.53.01:131][606]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/background3]
+[2025.02.22-09.53.01:131][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/background3" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background3_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-09.53.01:156][606]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/background3_Auto1
+[2025.02.22-09.53.01:156][606]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/background3_Auto19E423E04471FABB5A22DE1B13732B24B.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background3_Auto1.uasset'
+[2025.02.22-09.53.01:157][606]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/fantasycaves/background4a] ([1] browsable assets)...
+[2025.02.22-09.53.01:157][606]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/background4a]
+[2025.02.22-09.53.01:157][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/background4a" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background4a_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-09.53.01:174][606]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/background4a_Auto1
+[2025.02.22-09.53.01:174][606]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/background4a_Auto131C284CF416C263B4ED5C184B34FBE49.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background4a_Auto1.uasset'
+[2025.02.22-09.53.01:175][606]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/fantasycaves/background4b] ([1] browsable assets)...
+[2025.02.22-09.53.01:175][606]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/background4b]
+[2025.02.22-09.53.01:175][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/background4b" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background4b_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-09.53.01:191][606]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/background4b_Auto1
+[2025.02.22-09.53.01:191][606]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/background4b_Auto11AC27A5C4F1995F8FE79EF8402328568.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background4b_Auto1.uasset'
+[2025.02.22-09.53.01:192][606]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/fantasycaves/mainlev_build] ([1] browsable assets)...
+[2025.02.22-09.53.01:192][606]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/mainlev_build]
+[2025.02.22-09.53.01:192][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/mainlev_build" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/mainlev_build_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-09.53.01:217][606]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/mainlev_build_Auto1
+[2025.02.22-09.53.01:217][606]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/mainlev_build_Auto1BB27F67B4A758E1525EA79A0E8E2A80D.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/mainlev_build_Auto1.uasset'
+[2025.02.22-09.53.01:218][606]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/fantasycaves/props1] ([1] browsable assets)...
+[2025.02.22-09.53.01:218][606]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/props1]
+[2025.02.22-09.53.01:218][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/props1" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/props1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-09.53.01:282][606]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/props1_Auto1
+[2025.02.22-09.53.01:282][606]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/props1_Auto1556EF6AB4AED9F1A4F2B38809E6FC700.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/props1_Auto1.uasset'
+[2025.02.22-09.53.01:284][606]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/fantasycaves/props2] ([1] browsable assets)...
+[2025.02.22-09.53.01:284][606]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/props2]
+[2025.02.22-09.53.01:284][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/props2" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/props2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-09.53.01:306][606]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/props2_Auto1
+[2025.02.22-09.53.01:306][606]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/props2_Auto18FADC0954AFCB3966958C1AA090A3C65.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/props2_Auto1.uasset'
+[2025.02.22-09.53.01:307][606]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/fantasycaves/mainlev_build_TileSet] ([1] browsable assets)...
+[2025.02.22-09.53.01:309][606]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/assets/fantasycaves/mainlev_build_TileSet.mainlev_build_TileSet]
+[2025.02.22-09.53.01:309][606]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/mainlev_build_TileSet]
+[2025.02.22-09.53.01:665][606]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/mainlev_build_TileSet_Auto1
+[2025.02.22-09.53.01:665][606]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/mainlev_build_TileSet_Auto1B0E4D41241B883F3416ECE9166985ED9.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/mainlev_build_TileSet_Auto1.uasset'
+[2025.02.22-09.53.01:666][606]LogFileHelpers: Auto-saving content packages took 0.703
+[2025.02.22-09.53.28:410][204]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-09.53.28:470][204]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/assets/fantasycaves/mainlev_build_TileSet] ([1] browsable assets)...
+[2025.02.22-09.53.28:470][204]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/mainlev_build_TileSet]
+[2025.02.22-09.53.28:470][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/mainlev_build_TileSet" FILE="G:/cursach/saper_3/MyProject/Content/assets/fantasycaves/mainlev_build_TileSet.uasset" SILENT=true
+[2025.02.22-09.53.28:867][204]LogSavePackage: Moving output files for package: /Game/assets/fantasycaves/mainlev_build_TileSet
+[2025.02.22-09.53.28:868][204]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/mainlev_build_TileSet5BEA8160445E4D85AD6CA2A93EE12476.tmp' to 'G:/cursach/saper_3/MyProject/Content/assets/fantasycaves/mainlev_build_TileSet.uasset'
+[2025.02.22-09.53.28:883][204]LogFileHelpers: InternalPromptForCheckoutAndSave took 472.514 ms (total: 11.1 sec)
+[2025.02.22-09.53.28:936][204]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-09.53.28:936][204]LogContentValidation: Enabled validators:
+[2025.02.22-09.53.28:936][204]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-09.53.28:936][204]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-09.53.28:936][204]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-09.53.28:936][204]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-09.53.28:936][204]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-09.53.28:936][204]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-09.53.28:936][204]AssetCheck: /Game/assets/fantasycaves/mainlev_build_TileSet Validating asset
