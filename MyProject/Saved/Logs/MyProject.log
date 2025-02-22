@@ -2515,3 +2515,37 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.22-07.09.30:044][893]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.22-07.09.30:044][893]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.02.22-07.09.30:045][893]AssetCheck: /Game/bluprints/hero/BP_HERO Validating asset
+[2025.02.22-07.10.40:020][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.02.22-07.10.40:024][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/level1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.02.22-07.10.40:130][ 89]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/level1_Auto3
+[2025.02.22-07.10.40:130][ 89]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/level1_Auto3ED8DB95940306FB96695C1BA1B2E5307.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/level1_Auto3.umap'
+[2025.02.22-07.10.40:133][ 89]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/level1' took 0.135
+[2025.02.22-07.10.40:133][ 89]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.135
+[2025.02.22-07.10.40:133][ 89]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/BP_HERO] ([2] browsable assets)...
+[2025.02.22-07.10.40:133][ 89]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/BP_HERO]
+[2025.02.22-07.10.40:133][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/BP_HERO" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/bluprints/hero/BP_HERO_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-07.10.40:181][ 89]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluprints/hero/BP_HERO_Auto3
+[2025.02.22-07.10.40:181][ 89]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/BP_HERO_Auto34C74F65743381CF9B36141BFC904F96E.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/bluprints/hero/BP_HERO_Auto3.uasset'
+[2025.02.22-07.10.40:183][ 89]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/GM_BASE] ([2] browsable assets)...
+[2025.02.22-07.10.40:183][ 89]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/GM_BASE]
+[2025.02.22-07.10.40:183][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/GM_BASE" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/bluprints/GM_BASE_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-07.10.40:209][ 89]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluprints/GM_BASE_Auto3
+[2025.02.22-07.10.40:209][ 89]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/GM_BASE_Auto3DB95F1274A70ECF91FD832BB7A4FB7A1.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/bluprints/GM_BASE_Auto3.uasset'
+[2025.02.22-07.10.40:211][ 89]LogFileHelpers: Auto-saving content packages took 0.077
+[2025.02.22-07.12.44:694][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.02.22-07.12.45:228][557]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-07.12.45:278][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/ABP_HERO] ([2] browsable assets)...
+[2025.02.22-07.12.45:278][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/ABP_HERO]
+[2025.02.22-07.12.45:278][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/ABP_HERO" FILE="G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset" SILENT=true
+[2025.02.22-07.12.45:376][557]LogSavePackage: Moving output files for package: /Game/bluprints/hero/ABP_HERO
+[2025.02.22-07.12.45:377][557]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/ABP_HEROE66611064359129E5B1861B28981820D.tmp' to 'G:/cursach/saper_3/MyProject/Content/bluprints/hero/ABP_HERO.uasset'
+[2025.02.22-07.12.45:388][557]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.327 ms (total: 2.49 sec)
+[2025.02.22-07.12.45:444][557]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-07.12.45:445][557]LogContentValidation: Enabled validators:
+[2025.02.22-07.12.45:445][557]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-07.12.45:445][557]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-07.12.45:445][557]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-07.12.45:445][557]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-07.12.45:445][557]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-07.12.45:445][557]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-07.12.45:445][557]AssetCheck: /Game/bluprints/hero/ABP_HERO Validating asset
