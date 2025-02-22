@@ -1794,3 +1794,19 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.22-06.36.19:222][836]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/level1_Auto190CC7F5047669CA147EFF9AC5FDA806B.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/level1_Auto1.umap'
 [2025.02.22-06.36.19:228][836]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/level1' took 0.150
 [2025.02.22-06.36.19:228][836]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.150
+[2025.02.22-06.37.08:514][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-06.37.08:577][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="G:/cursach/saper_3/MyProject/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.22-06.37.08:662][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.02.22-06.37.08:772][770]LogSavePackage: Moving output files for package: /Game/level1
+[2025.02.22-06.37.08:772][770]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/level117D285FA449AAD62A84D88B4B9AC8630.tmp' to 'G:/cursach/saper_3/MyProject/Content/level1.umap'
+[2025.02.22-06.37.08:809][770]LogFileHelpers: Saving map 'level1' took 0.231
+[2025.02.22-06.37.08:815][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 301.076 ms (total: 1.41 sec)
+[2025.02.22-06.37.08:875][770]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-06.37.08:875][770]LogContentValidation: Enabled validators:
+[2025.02.22-06.37.08:875][770]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-06.37.08:875][770]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-06.37.08:875][770]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-06.37.08:875][770]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-06.37.08:875][770]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-06.37.08:875][770]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-06.37.08:875][770]AssetCheck: /Game/level1 Validating asset
