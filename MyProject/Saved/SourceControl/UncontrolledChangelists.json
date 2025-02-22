@@ -98,6 +98,8 @@
 				"G:/cursach/saper_3/MyProject/Content/assets/character/char_red_2.uasset",
 				"G:/cursach/saper_3/MyProject/Content/assets/character/idle/idle.uasset",
 				"G:/cursach/saper_3/MyProject/Content/assets/character/run/run.uasset",
+				"G:/cursach/saper_3/MyProject/Content/bluprints/hero/AS_HERO.uasset",
+				"G:/cursach/saper_3/MyProject/Content/bluprints/hero/AnimSequences/idle.uasset",
 				"D:/engine/course/saper_3/MyProject/Content/level1.umap"
 			]
 		}
