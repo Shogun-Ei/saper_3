@@ -4329,3 +4329,43 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.22-08.16.00:895][371]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6635.357910
 [2025.02.22-08.16.01:896][374]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.02.22-08.16.01:896][374]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6636.024902, Update Interval: 357.194733
+[2025.02.22-08.22.51:326][163]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7045.815918
+[2025.02.22-08.22.51:600][183]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.22-08.22.51:600][183]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7046.074707, Update Interval: 306.396057
+[2025.02.22-08.23.22:912][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.02.22-08.23.23:615][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-08.23.23:669][821]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/BP_HERO] ([2] browsable assets)...
+[2025.02.22-08.23.23:669][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/BP_HERO]
+[2025.02.22-08.23.23:669][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/BP_HERO" FILE="G:/cursach/saper_3/MyProject/Content/bluprints/hero/BP_HERO.uasset" SILENT=true
+[2025.02.22-08.23.23:760][821]LogSavePackage: Moving output files for package: /Game/bluprints/hero/BP_HERO
+[2025.02.22-08.23.23:761][821]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/BP_HERODD5F8EA446E080B5E8FE25AF7C987A11.tmp' to 'G:/cursach/saper_3/MyProject/Content/bluprints/hero/BP_HERO.uasset'
+[2025.02.22-08.23.23:774][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.275 ms (total: 7.92 sec)
+[2025.02.22-08.23.23:835][821]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-08.23.23:835][821]LogContentValidation: Enabled validators:
+[2025.02.22-08.23.23:835][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-08.23.23:835][821]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-08.23.23:835][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-08.23.23:835][821]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-08.23.23:835][821]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-08.23.23:835][821]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-08.23.23:835][821]AssetCheck: /Game/bluprints/hero/BP_HERO Validating asset
+[2025.02.22-08.23.53:490][860]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 976...65d
+[2025.02.22-08.23.53:490][860]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.553e+07
+[2025.02.22-08.23.53:701][875]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 976...65d Access[Expires: 2025.02.22-10.23.53 Remaining: 7200.59] Refresh[Expires: 2025-08-21T02:27:41.725Z Remaining: 15530628.72] State: Valid
+[2025.02.22-08.26.00:242][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.02.22-08.26.01:273][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-08.26.01:335][921]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/BP_HERO] ([2] browsable assets)...
+[2025.02.22-08.26.01:335][921]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/BP_HERO]
+[2025.02.22-08.26.01:335][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/BP_HERO" FILE="G:/cursach/saper_3/MyProject/Content/bluprints/hero/BP_HERO.uasset" SILENT=true
+[2025.02.22-08.26.01:431][921]LogSavePackage: Moving output files for package: /Game/bluprints/hero/BP_HERO
+[2025.02.22-08.26.01:432][921]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/BP_HEROE4F840F34ABB46DC81538A9C1A257897.tmp' to 'G:/cursach/saper_3/MyProject/Content/bluprints/hero/BP_HERO.uasset'
+[2025.02.22-08.26.01:443][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 170.075 ms (total: 8.09 sec)
+[2025.02.22-08.26.01:501][921]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-08.26.01:501][921]LogContentValidation: Enabled validators:
+[2025.02.22-08.26.01:501][921]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-08.26.01:501][921]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-08.26.01:501][921]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-08.26.01:501][921]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-08.26.01:501][921]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-08.26.01:501][921]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-08.26.01:501][921]AssetCheck: /Game/bluprints/hero/BP_HERO Validating asset
