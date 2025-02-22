@@ -1843,3 +1843,81 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.22-06.50.06:203][184]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.22-06.50.06:203][184]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.02.22-06.50.06:203][184]AssetCheck: /Game/bluprints/hero/BP_HERO Validating asset
+[2025.02.22-06.51.11:527][394]LogStreaming: Display: FlushAsyncLoading(539): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.22-06.51.35:768][421]LogEditorTransaction: Undo Modify Component(s)
+[2025.02.22-06.51.42:752][699]LogEditorTransaction: Undo Modify Component(s)
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: ================================================
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: Total job queries 153, among them cache hits 14 (9.15%), DDC hits 127 (83.01%), Duplicates 4 (2.61%)
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: Tracking 135 distinct input hashes that result in 130 distinct outputs (96.30%)
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: RAM used: 113,12 KiB of 2,40 GiB budget. Usage: 0.00%
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: Shaders Compiled: 8
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100%)
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: Average time worker was idle: 5.66 s
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.11 s
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: Job execution time: average 1.30 s, max 2.25 s
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: Job life time (pending + execution): average 1.38 s, max 2.34
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: Shader code size: average 6,613 KiB, min 2,785 KiB, max 8,039 KiB
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.22 s
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: Average processing rate: 1.89 jobs/sec
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: Total thread time: 3,726 s
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: Total thread preprocess time: 2,83 s
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: Percentage time preprocessing: 75.95%
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: Effective parallelization: 0.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.58 sec, max 0.61 sec, min 0.55 sec)
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.38 sec, max 0.39 sec, min 0.37 sec)
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display:                                        FCloudRenderViewPS100 (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 47.06% of total time (compiled    3 times, average 0.58 sec, max 0.61 sec, min 0.55 sec)
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 30.65% of total time (compiled    3 times, average 0.38 sec, max 0.39 sec, min 0.37 sec)
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display:                                                  FHitProxyPS - 11.46% of total time (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display:                                                  FHitProxyVS - 10.82% of total time (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display:                                        FCloudRenderViewPS100 - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: === Material stats ===
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: Materials Translated:    128
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: Material Total Translate Time: 0.27 s
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: Material Translation Only: 0.04 s (14%)
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: Material Cache Hits: 44 (34%)
+[2025.02.22-06.52.31:555][  4]LogShaderCompilers: Display: ================================================
+[2025.02.22-06.53.09:510][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.02.22-06.53.09:514][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/level1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.02.22-06.53.09:623][740]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/level1_Auto2
+[2025.02.22-06.53.09:623][740]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/level1_Auto219FBF38E4FDBE74D510E9E8225B9613E.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/level1_Auto2.umap'
+[2025.02.22-06.53.09:631][740]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/level1' took 0.145
+[2025.02.22-06.53.09:631][740]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.145
+[2025.02.22-06.53.09:642][740]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/BP_HERO] ([2] browsable assets)...
+[2025.02.22-06.53.09:642][740]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/BP_HERO]
+[2025.02.22-06.53.09:642][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/BP_HERO" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/bluprints/hero/BP_HERO_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-06.53.09:683][740]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluprints/hero/BP_HERO_Auto2
+[2025.02.22-06.53.09:683][740]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/BP_HERO_Auto2BDAA8BCC4DDAB45B9C354B8323262412.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/bluprints/hero/BP_HERO_Auto2.uasset'
+[2025.02.22-06.53.09:684][740]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/GM_BASE] ([2] browsable assets)...
+[2025.02.22-06.53.09:685][740]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/GM_BASE]
+[2025.02.22-06.53.09:685][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/GM_BASE" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/bluprints/GM_BASE_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-06.53.09:709][740]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluprints/GM_BASE_Auto2
+[2025.02.22-06.53.09:709][740]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/GM_BASE_Auto24DE0580C4F01E7BDCD3AE886C178BC2E.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/bluprints/GM_BASE_Auto2.uasset'
+[2025.02.22-06.53.09:710][740]LogFileHelpers: Auto-saving content packages took 0.079
+[2025.02.22-06.53.11:625][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.02.22-06.53.12:358][840]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-06.53.12:419][840]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/BP_HERO] ([2] browsable assets)...
+[2025.02.22-06.53.12:419][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/BP_HERO]
+[2025.02.22-06.53.12:419][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/BP_HERO" FILE="G:/cursach/saper_3/MyProject/Content/bluprints/hero/BP_HERO.uasset" SILENT=true
+[2025.02.22-06.53.12:460][840]LogSavePackage: Moving output files for package: /Game/bluprints/hero/BP_HERO
+[2025.02.22-06.53.12:461][840]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/BP_HERO9AABCC514AE45C84DA1320A5238B931C.tmp' to 'G:/cursach/saper_3/MyProject/Content/bluprints/hero/BP_HERO.uasset'
+[2025.02.22-06.53.12:473][840]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.687 ms (total: 1.64 sec)
+[2025.02.22-06.53.12:536][840]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-06.53.12:536][840]LogContentValidation: Enabled validators:
+[2025.02.22-06.53.12:536][840]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-06.53.12:536][840]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-06.53.12:536][840]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-06.53.12:536][840]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-06.53.12:536][840]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-06.53.12:536][840]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-06.53.12:536][840]AssetCheck: /Game/bluprints/hero/BP_HERO Validating asset
