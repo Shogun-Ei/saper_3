@@ -1646,3 +1646,42 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.22-06.30.17:128][415]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.22-06.30.17:128][415]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.02.22-06.30.17:128][415]AssetCheck: /Game/bluprints/hero/ABP_HERO Validating asset
+[2025.02.22-06.31.06:409][801]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.22-06.31.06:420][801]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.22-06.31.06:428][801]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.22-06.31.06:444][802]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.22-06.31.16:380][874]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_HERO
+[2025.02.22-06.31.16:446][874]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.22-06.31.19:936][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.02.22-06.31.21:055][ 22]LogSlate: Window 'Save Content' being destroyed
+[2025.02.22-06.31.21:064][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-06.31.21:127][ 22]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/BP_HERO] ([2] browsable assets)...
+[2025.02.22-06.31.21:127][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/BP_HERO]
+[2025.02.22-06.31.21:127][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/BP_HERO" FILE="G:/cursach/saper_3/MyProject/Content/bluprints/hero/BP_HERO.uasset" SILENT=true
+[2025.02.22-06.31.21:155][ 22]LogSavePackage: Moving output files for package: /Game/bluprints/hero/BP_HERO
+[2025.02.22-06.31.21:155][ 22]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/BP_HERO8A15DB1B40D4025EA5C4E9AEA73DEE74.tmp' to 'G:/cursach/saper_3/MyProject/Content/bluprints/hero/BP_HERO.uasset'
+[2025.02.22-06.31.21:159][ 22]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/AnimSequences/idle] ([1] browsable assets)...
+[2025.02.22-06.31.21:159][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/AnimSequences/idle]
+[2025.02.22-06.31.21:159][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/AnimSequences/idle" FILE="G:/cursach/saper_3/MyProject/Content/bluprints/hero/AnimSequences/idle.uasset" SILENT=true
+[2025.02.22-06.31.21:166][ 22]LogSavePackage: Moving output files for package: /Game/bluprints/hero/AnimSequences/idle
+[2025.02.22-06.31.21:167][ 22]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/idleEF7775014270840FA2AF299DFD0F2277.tmp' to 'G:/cursach/saper_3/MyProject/Content/bluprints/hero/AnimSequences/idle.uasset'
+[2025.02.22-06.31.21:170][ 22]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/AnimSequences/run] ([1] browsable assets)...
+[2025.02.22-06.31.21:170][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/AnimSequences/run]
+[2025.02.22-06.31.21:170][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/AnimSequences/run" FILE="G:/cursach/saper_3/MyProject/Content/bluprints/hero/AnimSequences/run.uasset" SILENT=true
+[2025.02.22-06.31.21:179][ 22]LogSavePackage: Moving output files for package: /Game/bluprints/hero/AnimSequences/run
+[2025.02.22-06.31.21:180][ 22]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/runB25BE5DA4744792DB5A0FE8FAB1F22CC.tmp' to 'G:/cursach/saper_3/MyProject/Content/bluprints/hero/AnimSequences/run.uasset'
+[2025.02.22-06.31.21:192][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.113 ms (total: 927.858 ms)
+[2025.02.22-06.31.21:243][ 22]LogContentValidation: Display: Starting to validate 3 assets
+[2025.02.22-06.31.21:243][ 22]LogContentValidation: Enabled validators:
+[2025.02.22-06.31.21:243][ 22]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-06.31.21:243][ 22]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-06.31.21:243][ 22]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-06.31.21:243][ 22]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-06.31.21:243][ 22]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-06.31.21:243][ 22]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-06.31.21:243][ 22]AssetCheck: /Game/bluprints/hero/BP_HERO Validating asset
+[2025.02.22-06.31.21:243][ 22]AssetCheck: /Game/bluprints/hero/AnimSequences/idle Validating asset
+[2025.02.22-06.31.21:244][ 22]AssetCheck: /Game/bluprints/hero/AnimSequences/run Validating asset
+[2025.02.22-06.31.25:750][253]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 360.139954
+[2025.02.22-06.31.27:083][257]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.22-06.31.27:084][257]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 361.140656, Update Interval: 358.428894
