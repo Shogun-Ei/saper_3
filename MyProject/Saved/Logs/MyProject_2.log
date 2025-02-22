@@ -1527,3 +1527,30 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.22-06.14.08:020][979]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.22-06.14.08:020][979]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.02.22-06.14.08:020][979]AssetCheck: /Game/level1 Validating asset
+[2025.02.22-06.14.55:549][ 86]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 345.040588
+[2025.02.22-06.14.55:717][105]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.22-06.14.55:717][105]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 345.200684, Update Interval: 313.980530
+[2025.02.22-06.15.04:617][628]LogTexture: Display: Building textures: /Game/assets/character/char_red_1.char_red_1 (BGRA8, 448x616 x1x1x1) (Required Memory Estimate: 10.474602 MB), EncodeSpeed: Final
+[2025.02.22-06.15.08:052][995]LogTexture: Display: Building textures: /Game/assets/character/char_red_2.char_red_2 (BGRA8, 448x392 x1x1x1) (Required Memory Estimate: 7.029282 MB), EncodeSpeed: Final
+[2025.02.22-06.15.17:250][114]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/assets/character/char_red_1.char_red_1
+[2025.02.22-06.15.44:510][363]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.22-06.15.44:517][363]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.22-06.15.44:528][364]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.22-06.15.47:812][757]LogContentBrowser: Attempting asset rename: NewFolder -> idle
+[2025.02.22-06.15.47:818][757]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.22-06.15.56:122][749]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-06.15.56:168][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="G:/cursach/saper_3/MyProject/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.22-06.15.56:251][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.02.22-06.15.56:349][749]LogSavePackage: Moving output files for package: /Game/level1
+[2025.02.22-06.15.56:350][749]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/level18DBF56D04D7D72FCD10353A47C0B840E.tmp' to 'G:/cursach/saper_3/MyProject/Content/level1.umap'
+[2025.02.22-06.15.56:383][749]LogFileHelpers: Saving map 'level1' took 0.216
+[2025.02.22-06.15.56:390][749]LogFileHelpers: InternalPromptForCheckoutAndSave took 268.723 ms (total: 1.40 sec)
+[2025.02.22-06.15.56:451][749]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-06.15.56:451][749]LogContentValidation: Enabled validators:
+[2025.02.22-06.15.56:451][749]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-06.15.56:451][749]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-06.15.56:451][749]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-06.15.56:451][749]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-06.15.56:451][749]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-06.15.56:451][749]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-06.15.56:451][749]AssetCheck: /Game/level1 Validating asset
