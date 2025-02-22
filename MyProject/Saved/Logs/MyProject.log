@@ -4737,3 +4737,229 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.22-08.39.15:060][920]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.22-08.39.15:060][920]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.02.22-08.39.15:060][920]AssetCheck: /Game/bluprints/hero/BP_HERO Validating asset
+[2025.02.22-08.40.25:951][333]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8100.365234
+[2025.02.22-08.40.26:952][336]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.22-08.40.26:952][336]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8101.031738, Update Interval: 342.216248
+[2025.02.22-08.42.45:926][173]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.22-08.42.45:942][173]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.22-08.42.45:967][174]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.22-08.43.00:501][ 89]LogContentBrowser: Attempting asset rename: NewFolder -> fantasycaves
+[2025.02.22-08.43.00:507][ 89]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.22-08.43.37:267][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.02.22-08.43.40:042][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.02.22-08.43.46:835][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.02.22-08.44.02:687][267]LogInterchangeEngine: [Pending] Importing
+[2025.02.22-08.44.02:765][267]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.02.22-08.44.02:765][267]LogInterchangeEngine: [Success] Import Done
+[2025.02.22-08.44.02:888][268]LogInterchangeEngine: [Pending] Importing
+[2025.02.22-08.44.02:894][268]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.02.22-08.44.02:900][268]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.02.22-08.44.02:900][268]LogInterchangeEngine: [Success] Import Done
+[2025.02.22-08.44.03:071][269]LogInterchangeEngine: [Pending] Importing
+[2025.02.22-08.44.03:078][269]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.02.22-08.44.03:085][269]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.02.22-08.44.03:085][269]LogInterchangeEngine: [Success] Import Done
+[2025.02.22-08.44.03:321][270]LogInterchangeEngine: [Pending] Importing
+[2025.02.22-08.44.03:327][270]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.02.22-08.44.03:336][270]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.02.22-08.44.03:336][270]LogInterchangeEngine: [Success] Import Done
+[2025.02.22-08.44.03:520][271]LogInterchangeEngine: [Pending] Importing
+[2025.02.22-08.44.03:528][271]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.02.22-08.44.03:538][271]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.02.22-08.44.03:538][271]LogInterchangeEngine: [Success] Import Done
+[2025.02.22-08.44.03:720][272]LogInterchangeEngine: [Pending] Importing
+[2025.02.22-08.44.03:735][272]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.02.22-08.44.03:795][272]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.02.22-08.44.03:795][272]LogInterchangeEngine: [Success] Import Done
+[2025.02.22-08.44.03:988][273]LogInterchangeEngine: [Pending] Importing
+[2025.02.22-08.44.04:010][273]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.02.22-08.44.04:031][273]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.02.22-08.44.04:031][273]LogInterchangeEngine: [Success] Import Done
+[2025.02.22-08.44.04:220][274]LogInterchangeEngine: [Pending] Importing
+[2025.02.22-08.44.04:235][274]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.02.22-08.44.04:256][274]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.02.22-08.44.04:256][274]LogInterchangeEngine: [Success] Import Done
+[2025.02.22-08.44.32:779][621]LogTexture: Display: Building textures: /Game/assets/fantasycaves/background2.background2 (BGRA8, 960x480 x1x1x1) (Required Memory Estimate: 16.820312 MB), EncodeSpeed: Fast
+[2025.02.22-08.44.32:780][621]LogTexture: Display: Building textures: /Game/assets/fantasycaves/background3.background3 (BGRA8, 960x480 x1x1x1) (Required Memory Estimate: 16.820312 MB), EncodeSpeed: Fast
+[2025.02.22-08.44.32:780][621]LogTexture: Display: Building textures: /Game/assets/fantasycaves/background1.background1 (BGRA8, 960x480 x1x1x1) (Required Memory Estimate: 16.820312 MB), EncodeSpeed: Fast
+[2025.02.22-08.44.32:780][621]LogTexture: Display: Building textures: /Game/assets/fantasycaves/background4b.background4b (BGRA8, 960x480 x1x1x1) (Required Memory Estimate: 16.820312 MB), EncodeSpeed: Fast
+[2025.02.22-08.44.32:782][621]LogTexture: Display: Building textures: /Game/assets/fantasycaves/background4a.background4a (BGRA8, 960x480 x1x1x1) (Required Memory Estimate: 16.820312 MB), EncodeSpeed: Fast
+[2025.02.22-08.44.32:785][621]LogTexture: Display: Building textures: /Game/assets/fantasycaves/mainlev_build.mainlev_build (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 36.999992 MB), EncodeSpeed: Fast
+[2025.02.22-08.44.32:786][621]LogTexture: Display: Building textures: /Game/assets/fantasycaves/props1.props1 (BGRA8, 1280x1280 x1x1x1) (Required Memory Estimate: 57.249992 MB), EncodeSpeed: Fast
+[2025.02.22-08.44.32:786][621]LogTexture: Display: Building textures: /Game/assets/fantasycaves/props2.props2 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 36.999992 MB), EncodeSpeed: Fast
+[2025.02.22-08.44.39:161][100]Cmd: TRANSACTION UNDO
+[2025.02.22-08.44.39:161][100]LogEditorTransaction: Undo Rename Node
+[2025.02.22-08.44.57:323][500]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/assets/fantasycaves/mainlev_build_TileSet.mainlev_build_TileSet
+[2025.02.22-08.44.57:362][500]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.02.22-08.44.57:370][500]LogStreaming: Display: FlushAsyncLoading(582): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.22-08.47.08:582][848]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8503.077148
+[2025.02.22-08.47.09:129][861]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.22-08.47.09:129][861]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8503.458008, Update Interval: 332.958160
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: ================================================
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: Total job queries 176, among them cache hits 16 (9.09%), DDC hits 131 (74.43%), Duplicates 6 (3.41%)
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: Tracking 154 distinct input hashes that result in 145 distinct outputs (94.16%)
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: RAM used: 117,88 KiB of 2,40 GiB budget. Usage: 0.00%
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: Shaders Compiled: 23
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: Jobs assigned 23, completed 23 (100%)
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: Average time worker was idle: 1516.57 s
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: Job execution time: average 2.95 s, max 7.63 s
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: Job life time (pending + execution): average 3.02 s, max 7.69
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: Shader code size: average 6,803 KiB, min 2,785 KiB, max 12,215 KiB
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.97 s
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: Jobs were issued in 23 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: Average processing rate: 1.15 jobs/sec
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: Total thread time: 11,729 s
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: Total thread preprocess time: 3,109 s
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: Percentage time preprocessing: 26.51%
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: Effective parallelization: 0.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.20 sec, max 1.20 sec, min 1.20 sec)
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.64 sec, max 0.80 sec, min 0.55 sec)
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    5 times, average 0.49 sec, max 0.63 sec, min 0.39 sec)
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.45 sec, max 0.65 sec, min 0.37 sec)
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    5 times, average 0.42 sec, max 0.54 sec, min 0.35 sec)
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.79% of total time (compiled    4 times, average 0.64 sec, max 0.80 sec, min 0.55 sec)
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display:                                                 FLumenCardPS - 20.94% of total time (compiled    5 times, average 0.49 sec, max 0.63 sec, min 0.39 sec)
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display:                                                 FLumenCardVS - 18.10% of total time (compiled    5 times, average 0.42 sec, max 0.54 sec, min 0.35 sec)
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.25% of total time (compiled    4 times, average 0.45 sec, max 0.65 sec, min 0.37 sec)
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 10.19% of total time (compiled    1 times, average 1.20 sec, max 1.20 sec, min 1.20 sec)
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: === Material stats ===
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: Materials Translated:    129
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: Material Total Translate Time: 0.27 s
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: Material Translation Only: 0.04 s (14%)
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: Material Cache Hits: 44 (34%)
+[2025.02.22-08.47.30:629][337]LogShaderCompilers: Display: ================================================
+[2025.02.22-08.52.11:235][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.02.22-08.52.11:237][352]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/level1' took 0.062
+[2025.02.22-08.52.11:238][352]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluprints/hero/BP_HERO] ([2] browsable assets)...
+[2025.02.22-08.52.11:238][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluprints/hero/BP_HERO]
+[2025.02.22-08.52.11:238][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluprints/hero/BP_HERO" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/bluprints/hero/BP_HERO_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-08.52.11:392][352]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluprints/hero/BP_HERO_Auto7
+[2025.02.22-08.52.11:392][352]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/BP_HERO_Auto7F490E5BF46AA8961EC89A48768C0B9F2.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/bluprints/hero/BP_HERO_Auto7.uasset'
+[2025.02.22-08.52.11:405][352]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/fantasycaves/background1] ([1] browsable assets)...
+[2025.02.22-08.52.11:406][352]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/assets/fantasycaves/background1.background1]
+[2025.02.22-08.52.11:406][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/background1]
+[2025.02.22-08.52.11:406][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/background1" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background1_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-08.52.11:487][352]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/background1_Auto7
+[2025.02.22-08.52.11:487][352]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/background1_Auto759A8C8B64FE21B85E8F510B5750D343D.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background1_Auto7.uasset'
+[2025.02.22-08.52.11:489][352]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/fantasycaves/background2] ([1] browsable assets)...
+[2025.02.22-08.52.11:490][352]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/assets/fantasycaves/background2.background2]
+[2025.02.22-08.52.11:490][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/background2]
+[2025.02.22-08.52.11:490][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/background2" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background2_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-08.52.11:514][352]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/background2_Auto7
+[2025.02.22-08.52.11:514][352]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/background2_Auto782D189BC4418B2C09B9A328D34908350.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background2_Auto7.uasset'
+[2025.02.22-08.52.11:516][352]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/fantasycaves/background3] ([1] browsable assets)...
+[2025.02.22-08.52.11:517][352]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/assets/fantasycaves/background3.background3]
+[2025.02.22-08.52.11:517][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/background3]
+[2025.02.22-08.52.11:517][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/background3" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background3_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-08.52.11:538][352]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/background3_Auto7
+[2025.02.22-08.52.11:538][352]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/background3_Auto7A7DA113647D11BBFEBE164B4D3D3FB6F.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background3_Auto7.uasset'
+[2025.02.22-08.52.11:540][352]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/fantasycaves/background4a] ([1] browsable assets)...
+[2025.02.22-08.52.11:541][352]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/assets/fantasycaves/background4a.background4a]
+[2025.02.22-08.52.11:541][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/background4a]
+[2025.02.22-08.52.11:541][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/background4a" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background4a_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-08.52.11:557][352]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/background4a_Auto7
+[2025.02.22-08.52.11:557][352]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/background4a_Auto77EA520464FDAFB658966EABAC16D6B22.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background4a_Auto7.uasset'
+[2025.02.22-08.52.11:559][352]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/fantasycaves/background4b] ([1] browsable assets)...
+[2025.02.22-08.52.11:560][352]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/assets/fantasycaves/background4b.background4b]
+[2025.02.22-08.52.11:560][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/background4b]
+[2025.02.22-08.52.11:560][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/background4b" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background4b_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-08.52.11:576][352]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/background4b_Auto7
+[2025.02.22-08.52.11:576][352]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/background4b_Auto712227DC944566D3C9D0DDA877E33FBCE.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/background4b_Auto7.uasset'
+[2025.02.22-08.52.11:578][352]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/fantasycaves/mainlev_build] ([1] browsable assets)...
+[2025.02.22-08.52.11:580][352]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/assets/fantasycaves/mainlev_build.mainlev_build]
+[2025.02.22-08.52.11:580][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/mainlev_build]
+[2025.02.22-08.52.11:580][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/mainlev_build" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/mainlev_build_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-08.52.11:609][352]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/mainlev_build_Auto7
+[2025.02.22-08.52.11:609][352]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/mainlev_build_Auto783EAF46B4ED52B27AD4E6581A7672422.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/mainlev_build_Auto7.uasset'
+[2025.02.22-08.52.11:615][352]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/fantasycaves/props1] ([1] browsable assets)...
+[2025.02.22-08.52.11:617][352]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/assets/fantasycaves/props1.props1]
+[2025.02.22-08.52.11:618][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/props1]
+[2025.02.22-08.52.11:618][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/props1" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/props1_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-08.52.11:656][352]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/props1_Auto7
+[2025.02.22-08.52.11:656][352]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/props1_Auto72CD4A43C4084B0AC709AFD964400BDF0.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/props1_Auto7.uasset'
+[2025.02.22-08.52.11:657][352]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/fantasycaves/props2] ([1] browsable assets)...
+[2025.02.22-08.52.11:659][352]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/assets/fantasycaves/props2.props2]
+[2025.02.22-08.52.11:659][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/props2]
+[2025.02.22-08.52.11:659][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/fantasycaves/props2" FILE="G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/props2_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.02.22-08.52.11:701][352]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/props2_Auto7
+[2025.02.22-08.52.11:701][352]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/props2_Auto7F337D17743C455E3E4193BB1FEEACC6E.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/props2_Auto7.uasset'
+[2025.02.22-08.52.11:703][352]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/fantasycaves/mainlev_build_TileSet] ([1] browsable assets)...
+[2025.02.22-08.52.11:704][352]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/assets/fantasycaves/mainlev_build_TileSet.mainlev_build_TileSet]
+[2025.02.22-08.52.11:704][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/mainlev_build_TileSet]
+[2025.02.22-08.52.12:044][352]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/mainlev_build_TileSet_Auto7
+[2025.02.22-08.52.12:044][352]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/mainlev_build_TileSet_Auto7F67425CF46536E73D0AE17A7054E4414.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/mainlev_build_TileSet_Auto7.uasset'
+[2025.02.22-08.52.12:045][352]LogFileHelpers: Auto-saving content packages took 0.808
+[2025.02.22-08.53.25:266][322]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8879.790039
+[2025.02.22-08.53.25:503][329]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.22-08.53.25:503][329]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8879.991211, Update Interval: 337.752014
+[2025.02.22-08.53.26:470][356]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.22-08.53.30:492][466]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.22-08.55.08:491][761]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.08:527][762]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.08:561][763]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.08:597][764]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.08:631][765]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.08:667][766]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.08:700][767]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.08:734][768]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.08:769][769]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.08:802][770]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.08:838][771]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.08:872][772]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.08:908][773]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.08:942][774]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.08:976][775]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.09:010][776]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.09:045][777]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.09:080][778]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.10:710][826]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.10:744][827]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.10:778][828]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.10:813][829]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.10:846][830]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.10:879][831]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.10:916][832]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.10:952][833]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.10:986][834]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.11:019][835]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.11:053][836]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.11:088][837]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.11:123][838]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.11:157][839]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.11:191][840]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.11:227][841]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.55.11:262][842]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-08.59.59:689][ 34]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9274.193359
+[2025.02.22-08.59.59:934][ 41]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.22-08.59.59:934][ 41]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9274.402344, Update Interval: 301.316559
+[2025.02.22-09.02.12:216][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.02.22-09.02.12:219][ 79]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/level1' took 0.029
+[2025.02.22-09.02.12:219][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/fantasycaves/mainlev_build_TileSet] ([1] browsable assets)...
+[2025.02.22-09.02.12:220][ 79]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/assets/fantasycaves/mainlev_build_TileSet.mainlev_build_TileSet]
+[2025.02.22-09.02.12:220][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/fantasycaves/mainlev_build_TileSet]
+[2025.02.22-09.02.12:546][ 79]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/assets/fantasycaves/mainlev_build_TileSet_Auto8
+[2025.02.22-09.02.12:546][ 79]LogSavePackage: Moving 'G:/cursach/saper_3/MyProject/Saved/mainlev_build_TileSet_Auto885C800C644D0417232F94CA8DED8A095.tmp' to 'G:/cursach/saper_3/MyProject/Saved/Autosaves/Game/assets/fantasycaves/mainlev_build_TileSet_Auto8.uasset'
+[2025.02.22-09.02.12:547][ 79]LogFileHelpers: Auto-saving content packages took 0.329
+[2025.02.22-09.04.52:253][891]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.04.52:290][892]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.04.52:324][893]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.04.52:362][894]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.04.52:401][895]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.04.52:438][896]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.04.52:473][897]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.04.52:512][898]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.04.52:546][899]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.04.52:580][900]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.04.52:619][901]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.04.52:655][902]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.04.52:693][903]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.04.52:730][904]LogGeomTools: Triangulation of poly failed.
+[2025.02.22-09.04.52:765][905]LogGeomTools: Triangulation of poly failed.
